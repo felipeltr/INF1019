@@ -3,6 +3,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <signal.h>
+#include <sys/wait.h>
 
 #include "../utils.h"
 
@@ -18,7 +19,7 @@ void parseInput(void) {
 		strcat(dir,nome);
 		pid = fork();
 		if(pid==0) {
-			execvp(dir,NULL);
+			execl(dir,nome,NULL);
 		} else {
 			kill(pid, SIGSTOP);
 			storeProcess(processList, pid, tempo);
@@ -45,6 +46,9 @@ int main (void) {
 		fflush(stdout);
 		current = current->next;
 	}
+
+	printf("[ESCALONADOR] Todos os processos terminaram!\n");
+	fflush(stdout);
 
 	destroyList(processList);
 
