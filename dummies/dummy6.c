@@ -14,7 +14,9 @@ int main(void) {
 			fatorial(i);
 		sleep(1);
 		printf("dummy6 rodando...\n");
+		fflush(stdout);
 	}
 	printf("dummy6: acabei!\n");
+	fflush(stdout);
 	return 0;
 }

@@ -3,6 +3,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <signal.h>
+#include <sys/wait.h>
 
 #include "../utils.h"
 
@@ -22,7 +23,7 @@ void parseInput(void) {
 		strcat(dir,nome);
 		pid = fork();
 		if(pid==0) {
-			execvp(dir,NULL);
+			execl(dir,nome,NULL);
 		} else {
 			kill(pid, SIGSTOP);
 			storeProcess(processList, pid, 0);
@@ -50,26 +51,38 @@ void sigHandler(int sig) {
 	}
 }
 
+void activateHandler(void) {
+	if(signal(SIGALRM, sigHandler) == SIG_ERR || signal(SIGCHLD, sigHandler) == SIG_ERR) {
+		perror("Erro signal handler");
+		exit(1);
+	}
+}
+
+void deactivateHandler(void) {
+	if(signal(SIGALRM, SIG_IGN) == SIG_ERR || signal(SIGCHLD,  SIG_IGN) == SIG_ERR) {
+		perror("Erro signal handler");
+		exit(1);
+	}
+}
+
 int main (void) {
 	redirectIO();
 	processList = createList();
 	parseInput();
 
-	if(signal(SIGALRM, sigHandler) == SIG_ERR || signal(SIGCHLD, sigHandler) == SIG_ERR) {
-		perror("Erro signal handler");
-		exit(1);
-	}
-
 	current = processList->first;
 	while(current != NULL) {
 		printf("[ESCALONADOR] chamando processo %d...\n",current->pid);
+		fflush(stdout);
 		kill(current->pid, SIGCONT);
+		activateHandler();
 		alarm( QUANTUM );
 		printf("[ESCALONADOR] entrando em espera...\n");
 		fflush(stdout);
 		pause();
 		printf("[ESCALONADOR] saindo da espera...\n");
 		fflush(stdout);
+		deactivateHandler();
 		current = finished ? removeProcessAndGetNext(processList, current) : current->next;
 		if(!current) current = processList->first;
 

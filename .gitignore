@@ -2,6 +2,7 @@
 dummy[0-9]
 sjf/sjf
 roundrobin/roundrobin
+priority/priority
 
 .DS_Store
 

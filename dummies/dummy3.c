@@ -12,7 +12,9 @@ int main(void) {
 		for(i = 1; i<12; i+=2)
 			fatorial(i);
 		printf("dummy3 rodando...\n");
+		fflush(stdout);
 	}
 	printf("dummy3: acabei!\n");
+	fflush(stdout);
 	return 0;
 }
