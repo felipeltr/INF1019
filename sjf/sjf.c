@@ -14,7 +14,7 @@ void parseInput(void) {
 
 	while(scanf(" exec %s tempoexec=%d", nome, &tempo)==2) {
 		getcwd(dir,1024);
-		strcat(dir,"/../");
+		strcat(dir,"/../dummies/");
 		strcat(dir,nome);
 		pid = fork();
 		if(pid==0) {
@@ -22,7 +22,6 @@ void parseInput(void) {
 		} else {
 			kill(pid, SIGSTOP);
 			storeProcess(processList, pid, tempo);
-			printf("%s %d %d\n", nome, tempo, pid);
 		}
 	}
 
@@ -38,10 +37,10 @@ int main (void) {
 
 	current = processList->first;
 	while(current != NULL) {
-		printf("chamando %d\n", current->pid);
+		printf("chamando %d...\n", current->pid);
 		kill(current->pid, SIGCONT);
 		waitpid(current->pid, NULL, 0);
-		printf("concluido\n");
+		printf("%d terminou...\n", current->pid);
 		current = current->next;
 	}
 

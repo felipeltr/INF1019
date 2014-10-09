@@ -3,12 +3,18 @@ SHDIR=$(dirname $0)
 
 cd $SHDIR
 
-gcc -Wall -o dummy1 dummy1.c
-gcc -Wall -o dummy2 dummy2.c
-gcc -Wall -o dummy3 dummy3.c
+cd dummies
 
-cd sjf
+for file in *.c
+do
+	bin="${file%.*}"
+	echo "Building $bin..."
+	gcc -Wall -o $bin $file
+done
+
+cd ../sjf
 gcc -Wall -o sjf sjf.c ../utils.c
-cd ..
+cd ../roundrobin
+gcc -Wall -o roundrobin roundrobin.c ../utils.c
 
 cd $CURRDIR

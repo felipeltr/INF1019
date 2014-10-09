@@ -15,21 +15,36 @@ List* createList(void) {
 	return list;
 }
 
-void storeProcess( List* list, int pid, int scale ) {
+void storeProcess2( List* list, int pid, int scale, int scale2 ) {
 	Process *p, *new;
 	new = (Process *)malloc(sizeof(Process));
 	new->pid = pid;
 	new->scale = scale;
+	new->scale2 = scale2;
+	new->next = NULL;
 
 	p = list->first;
-	list->first = new;
-	new->next = p;
+	if(!p)
+		list->first = new;
+	else {
+		while(p->next != NULL)
+			p = p->next;
+		p->next = new;		
+	}
 
 	list->count++;
 }
 
+void storeProcess( List* list, int pid, int scale ) {
+	storeProcess2( list, pid, scale, 0);
+}
+
 int compare (const void * a, const void * b) {
-	return (*(Process**)a)->scale - (*(Process**)b)->scale;
+	int diff;
+	diff = (*(Process**)a)->scale - (*(Process**)b)->scale;
+	if(!diff)
+		diff = (*(Process**)a)->scale2 - (*(Process**)b)->scale2;
+	return diff;
 }
 
 void reorderList( List* list ) {
@@ -55,6 +70,25 @@ void reorderList( List* list ) {
 	}
 	current->next = NULL;
 
+}
+
+Process* removeProcessAndGetNext(List* list, Process* p) {
+	Process *current, *prev = NULL;
+	current = list->first;
+	while(current != p) {
+		prev = current;
+		current = current->next;
+	}
+
+	if(prev == NULL)
+		list->first = p->next;
+	else
+		prev->next = p->next;
+
+	current = p->next;
+
+	free(p);
+	return current;
 }
 
 void destroyList( List* list ) {
