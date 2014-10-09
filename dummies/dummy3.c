@@ -7,12 +7,12 @@ int fatorial(int n) {
 }
 
 int main(void) {
-	int i;
-	while(1) {
+	int i,j=0;
+	while(j++ < 5) {
 		for(i = 1; i<12; i+=2)
 			fatorial(i);
 		printf("dummy3 rodando...\n");
-		return 0;
 	}
+	printf("dummy3: acabei!\n");
 	return 0;
 }

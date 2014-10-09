@@ -11,5 +11,6 @@ int main(void) {
 		if(i > 2000000)
 			return 0;
 	}
+	printf("dummy1: acabei!\n");
 	return 0;
 }

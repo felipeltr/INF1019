@@ -3,6 +3,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <signal.h>
+#include <time.h>
 
 #include "../utils.h"
 
@@ -14,9 +15,9 @@ int isAlarm = 0, finished = 0;
 
 void parseInput(void) {
 	char dir[1024], nome[64];
-	int pid;
+	int pid, priority;
 
-	while(scanf(" exec %s", nome)==1) {
+	while(scanf(" exec %s prioridade=%d", nome, &priority)==2) {
 		getcwd(dir,1024);
 		strcat(dir,"/../dummies/");
 		strcat(dir,nome);
@@ -25,7 +26,7 @@ void parseInput(void) {
 			execvp(dir,NULL);
 		} else {
 			kill(pid, SIGSTOP);
-			storeProcess(processList, pid, 0);
+			storeProcess2(processList, pid, priority, clock());
 		}
 	}
 
@@ -62,7 +63,7 @@ int main (void) {
 
 	current = processList->first;
 	while(current != NULL) {
-		printf("[ESCALONADOR] chamando processo %d...\n",current->pid);
+		printf("[ESCALONADOR] chamando processo %d (prioridade %d)...\n",current->pid, current->scale);
 		kill(current->pid, SIGCONT);
 		alarm( QUANTUM );
 		printf("[ESCALONADOR] entrando em espera...\n");
@@ -70,8 +71,11 @@ int main (void) {
 		pause();
 		printf("[ESCALONADOR] saindo da espera...\n");
 		fflush(stdout);
-		current = finished ? removeProcessAndGetNext(processList, current) : current->next;
-		if(!current) current = processList->first;
+		if(current->scale != 7) current->scale++;
+		current->scale2 = clock();
+		if(finished) removeProcess(processList, current);
+		reorderList(processList);
+		current = processList->first;
 
 		finished = 0;
 	}

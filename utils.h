@@ -15,6 +15,7 @@ void storeProcess( List* list, int pid, int scale ) ;
 void storeProcess2( List* list, int pid, int scale, int scale2 ) ;
 void reorderList( List* list ) ;
 Process* removeProcessAndGetNext(List* list, Process* p) ;
+void removeProcess(List* list, Process* p) ;
 void destroyList( List* list ) ;
 
 void redirectIO(void) ;

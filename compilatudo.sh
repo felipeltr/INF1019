@@ -16,5 +16,7 @@ cd ../sjf
 gcc -Wall -o sjf sjf.c ../utils.c
 cd ../roundrobin
 gcc -Wall -o roundrobin roundrobin.c ../utils.c
+cd ../priority
+gcc -Wall -o priority priority.c ../utils.c
 
 cd $CURRDIR

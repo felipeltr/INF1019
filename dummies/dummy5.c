@@ -2,9 +2,12 @@
 #include <unistd.h>
 
 int main(void) {
-	int i;
-	while(1) {
-		i=1+1;
+	int i=0, n;
+	while(i++ < 8) {
+		n=1+1;
+		sleep(1);
+		printf("dummy5 rodando...\n");
 	}
+	printf("dummy5: acabei!\n");
 	return 0;
 }

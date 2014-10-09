@@ -1,0 +1,3 @@
+exec dummy7 prioridade=5
+exec dummy5 prioridade=2
+exec dummy2 prioridade=3

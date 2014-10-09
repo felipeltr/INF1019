@@ -88,7 +88,12 @@ Process* removeProcessAndGetNext(List* list, Process* p) {
 	current = p->next;
 
 	free(p);
+	list->count--;
 	return current;
+}
+
+void removeProcess(List* list, Process* p) {
+	removeProcessAndGetNext(list,p);
 }
 
 void destroyList( List* list ) {
@@ -105,13 +110,22 @@ void destroyList( List* list ) {
 }
 
 void redirectIO(void) {
-	int fd;
-	if ((fd=open("entrada.txt",O_RDONLY)) == -1){
+	int fdin, fdout;
+	if ((fdin=open("entrada.txt",O_RDONLY)) == -1){
 		perror("Erro entrada.txt");
 		exit(1);
 	}
-	if(dup2(fd, 0) == -1) {
+	if ((fdout=open("saida.txt",O_RDWR|O_CREAT|O_TRUNC,0666)) == -1){
+		perror("Erro saida.txt");
+		exit(1);
+	}
+
+	if(dup2(fdin, 0) == -1) {
 		perror("Erro STDIN redirect");
+		exit(1);
+	}
+	if(dup2(fdout, 1) == -1) {
+		perror("Erro STDOUT redirect");
 		exit(1);
 	}
 }

@@ -37,10 +37,12 @@ int main (void) {
 
 	current = processList->first;
 	while(current != NULL) {
-		printf("chamando %d...\n", current->pid);
+		printf("[ESCALONADOR] chamando %d...\n", current->pid);
+		fflush(stdout);
 		kill(current->pid, SIGCONT);
 		waitpid(current->pid, NULL, 0);
-		printf("%d terminou...\n", current->pid);
+		printf("[ESCALONADOR] %d terminou...\n", current->pid);
+		fflush(stdout);
 		current = current->next;
 	}
 
