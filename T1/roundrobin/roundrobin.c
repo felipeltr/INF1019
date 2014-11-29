@@ -7,7 +7,7 @@
 
 #include "../utils.h"
 
-#define QUANTUM 3
+#define QUANTUM 1
 
 List* processList;
 Process *current;

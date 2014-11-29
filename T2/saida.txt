@@ -1,0 +1,3408 @@
+
+
+>> tid 112271360 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	4101
+1	- frame vazio -
+2	- frame vazio -
+3	- frame vazio -
+4	- frame vazio -
+5	- frame vazio -
+6	- frame vazio -
+7	- frame vazio -
+8	- frame vazio -
+9	- frame vazio -
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112271360
+virtual addr: 0 - on memory: yes - addr on memory: 0 - last time used: 4121
+
+
+>> tid 112271360 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0112271360	4424
+2	- frame vazio -
+3	- frame vazio -
+4	- frame vazio -
+5	- frame vazio -
+6	- frame vazio -
+7	- frame vazio -
+8	- frame vazio -
+9	- frame vazio -
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112271360
+virtual addr: 0 - on memory: yes - addr on memory: 0 - last time used: 4121
+virtual addr: 1 - on memory: yes - addr on memory: 1 - last time used: 4516
+
+
+>> tid 112271360 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0112271360	4424
+2	0112271360	5721
+3	- frame vazio -
+4	- frame vazio -
+5	- frame vazio -
+6	- frame vazio -
+7	- frame vazio -
+8	- frame vazio -
+9	- frame vazio -
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112271360
+virtual addr: 0 - on memory: yes - addr on memory: 0 - last time used: 4121
+virtual addr: 1 - on memory: yes - addr on memory: 1 - last time used: 4516
+virtual addr: 2 - on memory: yes - addr on memory: 2 - last time used: 5731
+
+
+>> tid 112807936 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0112271360	4424
+2	0112271360	5721
+3	0112807936	6511
+4	- frame vazio -
+5	- frame vazio -
+6	- frame vazio -
+7	- frame vazio -
+8	- frame vazio -
+9	- frame vazio -
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112807936
+virtual addr: 0 - on memory: yes - addr on memory: 3 - last time used: 6520
+
+
+>> tid 112271360 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0112271360	4424
+2	0112271360	5721
+3	0112807936	6511
+4	0112271360	6907
+5	- frame vazio -
+6	- frame vazio -
+7	- frame vazio -
+8	- frame vazio -
+9	- frame vazio -
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112271360
+virtual addr: 0 - on memory: yes - addr on memory: 0 - last time used: 4121
+virtual addr: 1 - on memory: yes - addr on memory: 1 - last time used: 4516
+virtual addr: 2 - on memory: yes - addr on memory: 2 - last time used: 5731
+virtual addr: 3 - on memory: yes - addr on memory: 4 - last time used: 6913
+
+
+>> tid 112807936 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0112271360	4424
+2	0112271360	5721
+3	0112807936	6511
+4	0112271360	6907
+5	0112807936	7258
+6	- frame vazio -
+7	- frame vazio -
+8	- frame vazio -
+9	- frame vazio -
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112807936
+virtual addr: 0 - on memory: yes - addr on memory: 3 - last time used: 6520
+virtual addr: 1 - on memory: yes - addr on memory: 5 - last time used: 7271
+
+
+>> tid 112271360 solicitando pagina
+>> WSL atingiu limite. swap out em 0. conteudo movido para 0 no disco
+ADDR	TID		VALUE
+0	0112271360	7682
+1	0112271360	4424
+2	0112271360	5721
+3	0112807936	6511
+4	0112271360	6907
+5	0112807936	7258
+6	- frame vazio -
+7	- frame vazio -
+8	- frame vazio -
+9	- frame vazio -
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112271360
+virtual addr: 0 - on memory: no - addr on disk: 0 - last time used: 4121
+virtual addr: 1 - on memory: yes - addr on memory: 1 - last time used: 4516
+virtual addr: 2 - on memory: yes - addr on memory: 2 - last time used: 5731
+virtual addr: 3 - on memory: yes - addr on memory: 4 - last time used: 6913
+virtual addr: 4 - on memory: yes - addr on memory: 0 - last time used: 7700
+
+
+>> tid 112807936 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	7682
+1	0112271360	4424
+2	0112271360	5721
+3	0112807936	6511
+4	0112271360	6907
+5	0112807936	7258
+6	0112807936	7967
+7	- frame vazio -
+8	- frame vazio -
+9	- frame vazio -
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112807936
+virtual addr: 0 - on memory: yes - addr on memory: 3 - last time used: 6520
+virtual addr: 1 - on memory: yes - addr on memory: 5 - last time used: 7271
+virtual addr: 2 - on memory: yes - addr on memory: 6 - last time used: 7973
+
+
+>> tid 113344512 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	7682
+1	0112271360	4424
+2	0112271360	5721
+3	0112807936	6511
+4	0112271360	6907
+5	0112807936	7258
+6	0112807936	7967
+7	0113344512	8241
+8	- frame vazio -
+9	- frame vazio -
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 113344512
+virtual addr: 0 - on memory: yes - addr on memory: 7 - last time used: 8246
+
+
+>> tid 112271360 solicitando pagina
+>> WSL atingiu limite. swap out em 1. conteudo movido para 1 no disco
+ADDR	TID		VALUE
+0	0112271360	7682
+1	0112271360	8427
+2	0112271360	5721
+3	0112807936	6511
+4	0112271360	6907
+5	0112807936	7258
+6	0112807936	7967
+7	0113344512	8241
+8	- frame vazio -
+9	- frame vazio -
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112271360
+virtual addr: 0 - on memory: no - addr on disk: 0 - last time used: 4121
+virtual addr: 1 - on memory: no - addr on disk: 1 - last time used: 4516
+virtual addr: 2 - on memory: yes - addr on memory: 2 - last time used: 5731
+virtual addr: 3 - on memory: yes - addr on memory: 4 - last time used: 6913
+virtual addr: 4 - on memory: yes - addr on memory: 0 - last time used: 7700
+virtual addr: 5 - on memory: yes - addr on memory: 1 - last time used: 8440
+
+
+>> tid 112807936 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	7682
+1	0112271360	8427
+2	0112271360	5721
+3	0112807936	6511
+4	0112271360	6907
+5	0112807936	7258
+6	0112807936	7967
+7	0113344512	8241
+8	0112807936	8641
+9	- frame vazio -
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112807936
+virtual addr: 0 - on memory: yes - addr on memory: 3 - last time used: 6520
+virtual addr: 1 - on memory: yes - addr on memory: 5 - last time used: 7271
+virtual addr: 2 - on memory: yes - addr on memory: 6 - last time used: 7973
+virtual addr: 3 - on memory: yes - addr on memory: 8 - last time used: 8649
+
+
+>> tid 113344512 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	7682
+1	0112271360	8427
+2	0112271360	5721
+3	0112807936	6511
+4	0112271360	6907
+5	0112807936	7258
+6	0112807936	7967
+7	0113344512	8241
+8	0112807936	8641
+9	0113344512	8881
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 113344512
+virtual addr: 0 - on memory: yes - addr on memory: 7 - last time used: 8246
+virtual addr: 1 - on memory: yes - addr on memory: 9 - last time used: 8887
+
+
+>> tid 112271360 solicitando pagina
+>> WSL atingiu limite. swap out em 2. conteudo movido para 2 no disco
+ADDR	TID		VALUE
+0	0112271360	7682
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	6511
+4	0112271360	6907
+5	0112807936	7258
+6	0112807936	7967
+7	0113344512	8241
+8	0112807936	8641
+9	0113344512	8881
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112271360
+virtual addr: 0 - on memory: no - addr on disk: 0 - last time used: 4121
+virtual addr: 1 - on memory: no - addr on disk: 1 - last time used: 4516
+virtual addr: 2 - on memory: no - addr on disk: 2 - last time used: 5731
+virtual addr: 3 - on memory: yes - addr on memory: 4 - last time used: 6913
+virtual addr: 4 - on memory: yes - addr on memory: 0 - last time used: 7700
+virtual addr: 5 - on memory: yes - addr on memory: 1 - last time used: 8440
+virtual addr: 6 - on memory: yes - addr on memory: 2 - last time used: 9074
+
+
+>> tid 112807936 solicitando pagina
+>> WSL atingiu limite. swap out em 3. conteudo movido para 3 no disco
+ADDR	TID		VALUE
+0	0112271360	7682
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	6907
+5	0112807936	7258
+6	0112807936	7967
+7	0113344512	8241
+8	0112807936	8641
+9	0113344512	8881
+10	- frame vazio -
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112807936
+virtual addr: 0 - on memory: no - addr on disk: 3 - last time used: 6520
+virtual addr: 1 - on memory: yes - addr on memory: 5 - last time used: 7271
+virtual addr: 2 - on memory: yes - addr on memory: 6 - last time used: 7973
+virtual addr: 3 - on memory: yes - addr on memory: 8 - last time used: 8649
+virtual addr: 4 - on memory: yes - addr on memory: 3 - last time used: 9367
+
+
+>> tid 113344512 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	7682
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	6907
+5	0112807936	7258
+6	0112807936	7967
+7	0113344512	8241
+8	0112807936	8641
+9	0113344512	8881
+10	0113344512	9645
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 113344512
+virtual addr: 0 - on memory: yes - addr on memory: 7 - last time used: 8246
+virtual addr: 1 - on memory: yes - addr on memory: 9 - last time used: 8887
+virtual addr: 2 - on memory: yes - addr on memory: 10 - last time used: 9658
+
+
+>> tid 112271360 solicitando pagina
+>> WSL atingiu limite. swap out em 4. conteudo movido para 4 no disco
+ADDR	TID		VALUE
+0	0112271360	7682
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	10200
+5	0112807936	7258
+6	0112807936	7967
+7	0113344512	8241
+8	0112807936	8641
+9	0113344512	8881
+10	0113344512	9645
+11	- frame vazio -
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112271360
+virtual addr: 0 - on memory: no - addr on disk: 0 - last time used: 4121
+virtual addr: 1 - on memory: no - addr on disk: 1 - last time used: 4516
+virtual addr: 2 - on memory: no - addr on disk: 2 - last time used: 5731
+virtual addr: 3 - on memory: no - addr on disk: 4 - last time used: 6913
+virtual addr: 4 - on memory: yes - addr on memory: 0 - last time used: 7700
+virtual addr: 5 - on memory: yes - addr on memory: 1 - last time used: 8440
+virtual addr: 6 - on memory: yes - addr on memory: 2 - last time used: 9074
+virtual addr: 7 - on memory: yes - addr on memory: 4 - last time used: 10215
+
+
+>> tid 113881088 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	7682
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	10200
+5	0112807936	7258
+6	0112807936	7967
+7	0113344512	8241
+8	0112807936	8641
+9	0113344512	8881
+10	0113344512	9645
+11	0113881088	10593
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 113881088
+virtual addr: 0 - on memory: yes - addr on memory: 11 - last time used: 10601
+
+
+>> tid 112807936 solicitando pagina
+>> WSL atingiu limite. swap out em 5. conteudo movido para 5 no disco
+ADDR	TID		VALUE
+0	0112271360	7682
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	10200
+5	0112807936	10928
+6	0112807936	7967
+7	0113344512	8241
+8	0112807936	8641
+9	0113344512	8881
+10	0113344512	9645
+11	0113881088	10593
+12	- frame vazio -
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112807936
+virtual addr: 0 - on memory: no - addr on disk: 3 - last time used: 6520
+virtual addr: 1 - on memory: no - addr on disk: 5 - last time used: 7271
+virtual addr: 2 - on memory: yes - addr on memory: 6 - last time used: 7973
+virtual addr: 3 - on memory: yes - addr on memory: 8 - last time used: 8649
+virtual addr: 4 - on memory: yes - addr on memory: 3 - last time used: 9367
+virtual addr: 5 - on memory: yes - addr on memory: 5 - last time used: 11026
+
+
+>> tid 113344512 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	7682
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	10200
+5	0112807936	10928
+6	0112807936	7967
+7	0113344512	8241
+8	0112807936	8641
+9	0113344512	8881
+10	0113344512	9645
+11	0113881088	10593
+12	0113344512	11443
+13	- frame vazio -
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 113344512
+virtual addr: 0 - on memory: yes - addr on memory: 7 - last time used: 8246
+virtual addr: 1 - on memory: yes - addr on memory: 9 - last time used: 8887
+virtual addr: 2 - on memory: yes - addr on memory: 10 - last time used: 9658
+virtual addr: 3 - on memory: yes - addr on memory: 12 - last time used: 11450
+>> WSL atingiu limite. swap out em 0. conteudo movido para 6 no disco
+>>> final da tid 112271360. acessando valor do end virtual 0: 4101
+
+
+>> tid 113881088 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	10200
+5	0112807936	10928
+6	0112807936	7967
+7	0113344512	8241
+8	0112807936	8641
+9	0113344512	8881
+10	0113344512	9645
+11	0113881088	10593
+12	0113344512	11443
+13	0113881088	11878
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 113881088
+virtual addr: 0 - on memory: yes - addr on memory: 11 - last time used: 10601
+virtual addr: 1 - on memory: yes - addr on memory: 13 - last time used: 11891
+
+
+>> tid 112807936 solicitando pagina
+>> WSL atingiu limite. swap out em 6. conteudo movido para 0 no disco
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	10200
+5	0112807936	10928
+6	0112807936	12293
+7	0113344512	8241
+8	0112807936	8641
+9	0113344512	8881
+10	0113344512	9645
+11	0113881088	10593
+12	0113344512	11443
+13	0113881088	11878
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 112807936
+virtual addr: 0 - on memory: no - addr on disk: 3 - last time used: 6520
+virtual addr: 1 - on memory: no - addr on disk: 5 - last time used: 7271
+virtual addr: 2 - on memory: no - addr on disk: 0 - last time used: 7973
+virtual addr: 3 - on memory: yes - addr on memory: 8 - last time used: 8649
+virtual addr: 4 - on memory: yes - addr on memory: 3 - last time used: 9367
+virtual addr: 5 - on memory: yes - addr on memory: 5 - last time used: 11026
+virtual addr: 6 - on memory: yes - addr on memory: 6 - last time used: 12360
+
+
+>> tid 113344512 solicitando pagina
+>> WSL atingiu limite. swap out em 7. conteudo movido para 7 no disco
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	10200
+5	0112807936	10928
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	8641
+9	0113344512	8881
+10	0113344512	9645
+11	0113881088	10593
+12	0113344512	11443
+13	0113881088	11878
+14	- frame vazio -
+15	- frame vazio -
+Virtual Page Table for tid 113344512
+virtual addr: 0 - on memory: no - addr on disk: 7 - last time used: 8246
+virtual addr: 1 - on memory: yes - addr on memory: 9 - last time used: 8887
+virtual addr: 2 - on memory: yes - addr on memory: 10 - last time used: 9658
+virtual addr: 3 - on memory: yes - addr on memory: 12 - last time used: 11450
+virtual addr: 4 - on memory: yes - addr on memory: 7 - last time used: 12957
+
+
+>> tid 113881088 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	10200
+5	0112807936	10928
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	8641
+9	0113344512	8881
+10	0113344512	9645
+11	0113881088	10593
+12	0113344512	11443
+13	0113881088	11878
+14	0113881088	13403
+15	- frame vazio -
+Virtual Page Table for tid 113881088
+virtual addr: 0 - on memory: yes - addr on memory: 11 - last time used: 10601
+virtual addr: 1 - on memory: yes - addr on memory: 13 - last time used: 11891
+virtual addr: 2 - on memory: yes - addr on memory: 14 - last time used: 13418
+
+
+>> tid 112807936 solicitando pagina
+>> WSL atingiu limite. swap out em 8. conteudo movido para 8 no disco
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	10200
+5	0112807936	10928
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	13918
+9	0113344512	8881
+10	0113344512	9645
+11	0113881088	10593
+12	0113344512	11443
+13	0113881088	11878
+14	0113881088	13403
+15	- frame vazio -
+Virtual Page Table for tid 112807936
+virtual addr: 0 - on memory: no - addr on disk: 3 - last time used: 6520
+virtual addr: 1 - on memory: no - addr on disk: 5 - last time used: 7271
+virtual addr: 2 - on memory: no - addr on disk: 0 - last time used: 7973
+virtual addr: 3 - on memory: no - addr on disk: 8 - last time used: 8649
+virtual addr: 4 - on memory: yes - addr on memory: 3 - last time used: 9367
+virtual addr: 5 - on memory: yes - addr on memory: 5 - last time used: 11026
+virtual addr: 6 - on memory: yes - addr on memory: 6 - last time used: 12360
+virtual addr: 7 - on memory: yes - addr on memory: 8 - last time used: 14000
+
+
+>> tid 114417664 solicitando pagina
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	10200
+5	0112807936	10928
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	13918
+9	0113344512	8881
+10	0113344512	9645
+11	0113881088	10593
+12	0113344512	11443
+13	0113881088	11878
+14	0113881088	13403
+15	0114417664	14764
+Virtual Page Table for tid 114417664
+virtual addr: 0 - on memory: yes - addr on memory: 15 - last time used: 14777
+
+
+>> tid 113344512 solicitando pagina
+>> WSL atingiu limite. swap out em 9. conteudo movido para 9 no disco
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0112271360	8427
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	10200
+5	0112807936	10928
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	13918
+9	0113344512	15131
+10	0113344512	9645
+11	0113881088	10593
+12	0113344512	11443
+13	0113881088	11878
+14	0113881088	13403
+15	0114417664	14764
+Virtual Page Table for tid 113344512
+virtual addr: 0 - on memory: no - addr on disk: 7 - last time used: 8246
+virtual addr: 1 - on memory: no - addr on disk: 9 - last time used: 8887
+virtual addr: 2 - on memory: yes - addr on memory: 10 - last time used: 9658
+virtual addr: 3 - on memory: yes - addr on memory: 12 - last time used: 11450
+virtual addr: 4 - on memory: yes - addr on memory: 7 - last time used: 12957
+virtual addr: 5 - on memory: yes - addr on memory: 9 - last time used: 15153
+
+
+>> tid 113881088 solicitando pagina
+>> Memoria atingiu limite. swap out em 1. conteudo movido para 10 no disco
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0113881088	15650
+2	0112271360	9058
+3	0112807936	9348
+4	0112271360	10200
+5	0112807936	10928
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	13918
+9	0113344512	15131
+10	0113344512	9645
+11	0113881088	10593
+12	0113344512	11443
+13	0113881088	11878
+14	0113881088	13403
+15	0114417664	14764
+Virtual Page Table for tid 113881088
+virtual addr: 0 - on memory: yes - addr on memory: 11 - last time used: 10601
+virtual addr: 1 - on memory: yes - addr on memory: 13 - last time used: 11891
+virtual addr: 2 - on memory: yes - addr on memory: 14 - last time used: 13418
+virtual addr: 3 - on memory: yes - addr on memory: 1 - last time used: 15727
+>> WSL atingiu limite. swap out em 3. conteudo movido para 10 no disco
+>>> final da tid 112807936. acessando valor do end virtual 0: 6511
+
+
+>> tid 114417664 solicitando pagina
+>> Memoria atingiu limite. swap out em 2. conteudo movido para 3 no disco
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0113881088	15650
+2	0114417664	16464
+3	0112807936	6511
+4	0112271360	10200
+5	0112807936	10928
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	13918
+9	0113344512	15131
+10	0113344512	9645
+11	0113881088	10593
+12	0113344512	11443
+13	0113881088	11878
+14	0113881088	13403
+15	0114417664	14764
+Virtual Page Table for tid 114417664
+virtual addr: 0 - on memory: yes - addr on memory: 15 - last time used: 14777
+virtual addr: 1 - on memory: yes - addr on memory: 2 - last time used: 16511
+
+
+>> tid 113344512 solicitando pagina
+>> WSL atingiu limite. swap out em 10. conteudo movido para 3 no disco
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0113881088	15650
+2	0114417664	16464
+3	0112807936	6511
+4	0112271360	10200
+5	0112807936	10928
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	13918
+9	0113344512	15131
+10	0113344512	16937
+11	0113881088	10593
+12	0113344512	11443
+13	0113881088	11878
+14	0113881088	13403
+15	0114417664	14764
+Virtual Page Table for tid 113344512
+virtual addr: 0 - on memory: no - addr on disk: 7 - last time used: 8246
+virtual addr: 1 - on memory: no - addr on disk: 9 - last time used: 8887
+virtual addr: 2 - on memory: no - addr on disk: 3 - last time used: 9658
+virtual addr: 3 - on memory: yes - addr on memory: 12 - last time used: 11450
+virtual addr: 4 - on memory: yes - addr on memory: 7 - last time used: 12957
+virtual addr: 5 - on memory: yes - addr on memory: 9 - last time used: 15153
+virtual addr: 6 - on memory: yes - addr on memory: 10 - last time used: 16963
+
+
+>> tid 113881088 solicitando pagina
+>> WSL atingiu limite. swap out em 11. conteudo movido para 11 no disco
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0113881088	15650
+2	0114417664	16464
+3	0112807936	6511
+4	0112271360	10200
+5	0112807936	10928
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	13918
+9	0113344512	15131
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	11443
+13	0113881088	11878
+14	0113881088	13403
+15	0114417664	14764
+Virtual Page Table for tid 113881088
+virtual addr: 0 - on memory: no - addr on disk: 11 - last time used: 10601
+virtual addr: 1 - on memory: yes - addr on memory: 13 - last time used: 11891
+virtual addr: 2 - on memory: yes - addr on memory: 14 - last time used: 13418
+virtual addr: 3 - on memory: yes - addr on memory: 1 - last time used: 15727
+virtual addr: 4 - on memory: yes - addr on memory: 11 - last time used: 17318
+
+
+>> tid 114417664 solicitando pagina
+>> Memoria atingiu limite. swap out em 4. conteudo movido para 12 no disco
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0113881088	15650
+2	0114417664	16464
+3	0112807936	6511
+4	0114417664	17596
+5	0112807936	10928
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	13918
+9	0113344512	15131
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	11443
+13	0113881088	11878
+14	0113881088	13403
+15	0114417664	14764
+Virtual Page Table for tid 114417664
+virtual addr: 0 - on memory: yes - addr on memory: 15 - last time used: 14777
+virtual addr: 1 - on memory: yes - addr on memory: 2 - last time used: 16511
+virtual addr: 2 - on memory: yes - addr on memory: 4 - last time used: 17620
+
+
+>> tid 113344512 solicitando pagina
+>> WSL atingiu limite. swap out em 12. conteudo movido para 12 no disco
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0113881088	15650
+2	0114417664	16464
+3	0112807936	6511
+4	0114417664	17596
+5	0112807936	10928
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	13918
+9	0113344512	15131
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	17893
+13	0113881088	11878
+14	0113881088	13403
+15	0114417664	14764
+Virtual Page Table for tid 113344512
+virtual addr: 0 - on memory: no - addr on disk: 7 - last time used: 8246
+virtual addr: 1 - on memory: no - addr on disk: 9 - last time used: 8887
+virtual addr: 2 - on memory: no - addr on disk: 3 - last time used: 9658
+virtual addr: 3 - on memory: no - addr on disk: 12 - last time used: 11450
+virtual addr: 4 - on memory: yes - addr on memory: 7 - last time used: 12957
+virtual addr: 5 - on memory: yes - addr on memory: 9 - last time used: 15153
+virtual addr: 6 - on memory: yes - addr on memory: 10 - last time used: 16963
+virtual addr: 7 - on memory: yes - addr on memory: 12 - last time used: 17917
+
+
+>> tid 114954240 solicitando pagina
+>> Memoria atingiu limite. swap out em 5. conteudo movido para 13 no disco
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0113881088	15650
+2	0114417664	16464
+3	0112807936	6511
+4	0114417664	17596
+5	0114954240	18826
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	13918
+9	0113344512	15131
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	17893
+13	0113881088	11878
+14	0113881088	13403
+15	0114417664	14764
+Virtual Page Table for tid 114954240
+virtual addr: 0 - on memory: yes - addr on memory: 5 - last time used: 18883
+
+
+>> tid 113881088 solicitando pagina
+>> WSL atingiu limite. swap out em 13. conteudo movido para 13 no disco
+ADDR	TID		VALUE
+0	0112271360	4101
+1	0113881088	15650
+2	0114417664	16464
+3	0112807936	6511
+4	0114417664	17596
+5	0114954240	18826
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	13918
+9	0113344512	15131
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	17893
+13	0113881088	19352
+14	0113881088	13403
+15	0114417664	14764
+Virtual Page Table for tid 113881088
+virtual addr: 0 - on memory: no - addr on disk: 11 - last time used: 10601
+virtual addr: 1 - on memory: no - addr on disk: 13 - last time used: 11891
+virtual addr: 2 - on memory: yes - addr on memory: 14 - last time used: 13418
+virtual addr: 3 - on memory: yes - addr on memory: 1 - last time used: 15727
+virtual addr: 4 - on memory: yes - addr on memory: 11 - last time used: 17318
+virtual addr: 5 - on memory: yes - addr on memory: 13 - last time used: 19376
+
+
+>> tid 114417664 solicitando pagina
+>> Memoria atingiu limite. swap out em 0. conteudo movido para 14 no disco
+ADDR	TID		VALUE
+0	0114417664	19727
+1	0113881088	15650
+2	0114417664	16464
+3	0112807936	6511
+4	0114417664	17596
+5	0114954240	18826
+6	0112807936	12293
+7	0113344512	12921
+8	0112807936	13918
+9	0113344512	15131
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	17893
+13	0113881088	19352
+14	0113881088	13403
+15	0114417664	14764
+Virtual Page Table for tid 114417664
+virtual addr: 0 - on memory: yes - addr on memory: 15 - last time used: 14777
+virtual addr: 1 - on memory: yes - addr on memory: 2 - last time used: 16511
+virtual addr: 2 - on memory: yes - addr on memory: 4 - last time used: 17620
+virtual addr: 3 - on memory: yes - addr on memory: 0 - last time used: 19743
+>> WSL atingiu limite. swap out em 7. conteudo movido para 14 no disco
+>>> final da tid 113344512. acessando valor do end virtual 0: 8241
+
+
+>> tid 114954240 solicitando pagina
+>> Memoria atingiu limite. swap out em 6. conteudo movido para 7 no disco
+ADDR	TID		VALUE
+0	0114417664	19727
+1	0113881088	15650
+2	0114417664	16464
+3	0112807936	6511
+4	0114417664	17596
+5	0114954240	18826
+6	0114954240	20242
+7	0113344512	8241
+8	0112807936	13918
+9	0113344512	15131
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	17893
+13	0113881088	19352
+14	0113881088	13403
+15	0114417664	14764
+Virtual Page Table for tid 114954240
+virtual addr: 0 - on memory: yes - addr on memory: 5 - last time used: 18883
+virtual addr: 1 - on memory: yes - addr on memory: 6 - last time used: 20302
+
+
+>> tid 113881088 solicitando pagina
+>> WSL atingiu limite. swap out em 14. conteudo movido para 7 no disco
+ADDR	TID		VALUE
+0	0114417664	19727
+1	0113881088	15650
+2	0114417664	16464
+3	0112807936	6511
+4	0114417664	17596
+5	0114954240	18826
+6	0114954240	20242
+7	0113344512	8241
+8	0112807936	13918
+9	0113344512	15131
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	17893
+13	0113881088	19352
+14	0113881088	20752
+15	0114417664	14764
+Virtual Page Table for tid 113881088
+virtual addr: 0 - on memory: no - addr on disk: 11 - last time used: 10601
+virtual addr: 1 - on memory: no - addr on disk: 13 - last time used: 11891
+virtual addr: 2 - on memory: no - addr on disk: 7 - last time used: 13418
+virtual addr: 3 - on memory: yes - addr on memory: 1 - last time used: 15727
+virtual addr: 4 - on memory: yes - addr on memory: 11 - last time used: 17318
+virtual addr: 5 - on memory: yes - addr on memory: 13 - last time used: 19376
+virtual addr: 6 - on memory: yes - addr on memory: 14 - last time used: 20782
+
+
+>> tid 114417664 solicitando pagina
+>> WSL atingiu limite. swap out em 15. conteudo movido para 15 no disco
+ADDR	TID		VALUE
+0	0114417664	19727
+1	0113881088	15650
+2	0114417664	16464
+3	0112807936	6511
+4	0114417664	17596
+5	0114954240	18826
+6	0114954240	20242
+7	0113344512	8241
+8	0112807936	13918
+9	0113344512	15131
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	17893
+13	0113881088	19352
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 114417664
+virtual addr: 0 - on memory: no - addr on disk: 15 - last time used: 14777
+virtual addr: 1 - on memory: yes - addr on memory: 2 - last time used: 16511
+virtual addr: 2 - on memory: yes - addr on memory: 4 - last time used: 17620
+virtual addr: 3 - on memory: yes - addr on memory: 0 - last time used: 19743
+virtual addr: 4 - on memory: yes - addr on memory: 15 - last time used: 21299
+
+
+>> tid 114954240 solicitando pagina
+>> Memoria atingiu limite. swap out em 8. conteudo movido para 16 no disco
+ADDR	TID		VALUE
+0	0114417664	19727
+1	0113881088	15650
+2	0114417664	16464
+3	0112807936	6511
+4	0114417664	17596
+5	0114954240	18826
+6	0114954240	20242
+7	0113344512	8241
+8	0114954240	21878
+9	0113344512	15131
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	17893
+13	0113881088	19352
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 114954240
+virtual addr: 0 - on memory: yes - addr on memory: 5 - last time used: 18883
+virtual addr: 1 - on memory: yes - addr on memory: 6 - last time used: 20302
+virtual addr: 2 - on memory: yes - addr on memory: 8 - last time used: 21950
+
+
+>> tid 113881088 solicitando pagina
+>> WSL atingiu limite. swap out em 1. conteudo movido para 16 no disco
+ADDR	TID		VALUE
+0	0114417664	19727
+1	0113881088	22533
+2	0114417664	16464
+3	0112807936	6511
+4	0114417664	17596
+5	0114954240	18826
+6	0114954240	20242
+7	0113344512	8241
+8	0114954240	21878
+9	0113344512	15131
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	17893
+13	0113881088	19352
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 113881088
+virtual addr: 0 - on memory: no - addr on disk: 11 - last time used: 10601
+virtual addr: 1 - on memory: no - addr on disk: 13 - last time used: 11891
+virtual addr: 2 - on memory: no - addr on disk: 7 - last time used: 13418
+virtual addr: 3 - on memory: no - addr on disk: 16 - last time used: 15727
+virtual addr: 4 - on memory: yes - addr on memory: 11 - last time used: 17318
+virtual addr: 5 - on memory: yes - addr on memory: 13 - last time used: 19376
+virtual addr: 6 - on memory: yes - addr on memory: 14 - last time used: 20782
+virtual addr: 7 - on memory: yes - addr on memory: 1 - last time used: 22639
+
+
+>> tid 115490816 solicitando pagina
+>> Memoria atingiu limite. swap out em 9. conteudo movido para 17 no disco
+ADDR	TID		VALUE
+0	0114417664	19727
+1	0113881088	22533
+2	0114417664	16464
+3	0112807936	6511
+4	0114417664	17596
+5	0114954240	18826
+6	0114954240	20242
+7	0113344512	8241
+8	0114954240	21878
+9	0115490816	23451
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	17893
+13	0113881088	19352
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 115490816
+virtual addr: 0 - on memory: yes - addr on memory: 9 - last time used: 23487
+
+
+>> tid 114417664 solicitando pagina
+>> WSL atingiu limite. swap out em 2. conteudo movido para 17 no disco
+ADDR	TID		VALUE
+0	0114417664	19727
+1	0113881088	22533
+2	0114417664	23965
+3	0112807936	6511
+4	0114417664	17596
+5	0114954240	18826
+6	0114954240	20242
+7	0113344512	8241
+8	0114954240	21878
+9	0115490816	23451
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	17893
+13	0113881088	19352
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 114417664
+virtual addr: 0 - on memory: no - addr on disk: 15 - last time used: 14777
+virtual addr: 1 - on memory: no - addr on disk: 17 - last time used: 16511
+virtual addr: 2 - on memory: yes - addr on memory: 4 - last time used: 17620
+virtual addr: 3 - on memory: yes - addr on memory: 0 - last time used: 19743
+virtual addr: 4 - on memory: yes - addr on memory: 15 - last time used: 21299
+virtual addr: 5 - on memory: yes - addr on memory: 2 - last time used: 24041
+
+
+>> tid 114954240 solicitando pagina
+>> Memoria atingiu limite. swap out em 3. conteudo movido para 18 no disco
+ADDR	TID		VALUE
+0	0114417664	19727
+1	0113881088	22533
+2	0114417664	23965
+3	0114954240	24811
+4	0114417664	17596
+5	0114954240	18826
+6	0114954240	20242
+7	0113344512	8241
+8	0114954240	21878
+9	0115490816	23451
+10	0113344512	16937
+11	0113881088	17303
+12	0113344512	17893
+13	0113881088	19352
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 114954240
+virtual addr: 0 - on memory: yes - addr on memory: 5 - last time used: 18883
+virtual addr: 1 - on memory: yes - addr on memory: 6 - last time used: 20302
+virtual addr: 2 - on memory: yes - addr on memory: 8 - last time used: 21950
+virtual addr: 3 - on memory: yes - addr on memory: 3 - last time used: 24846
+>> WSL atingiu limite. swap out em 11. conteudo movido para 18 no disco
+>>> final da tid 113881088. acessando valor do end virtual 0: 10593
+
+
+>> tid 115490816 solicitando pagina
+>> Memoria atingiu limite. swap out em 10. conteudo movido para 11 no disco
+ADDR	TID		VALUE
+0	0114417664	19727
+1	0113881088	22533
+2	0114417664	23965
+3	0114954240	24811
+4	0114417664	17596
+5	0114954240	18826
+6	0114954240	20242
+7	0113344512	8241
+8	0114954240	21878
+9	0115490816	23451
+10	0115490816	25644
+11	0113881088	10593
+12	0113344512	17893
+13	0113881088	19352
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 115490816
+virtual addr: 0 - on memory: yes - addr on memory: 9 - last time used: 23487
+virtual addr: 1 - on memory: yes - addr on memory: 10 - last time used: 25669
+
+
+>> tid 114417664 solicitando pagina
+>> WSL atingiu limite. swap out em 4. conteudo movido para 11 no disco
+ADDR	TID		VALUE
+0	0114417664	19727
+1	0113881088	22533
+2	0114417664	23965
+3	0114954240	24811
+4	0114417664	26073
+5	0114954240	18826
+6	0114954240	20242
+7	0113344512	8241
+8	0114954240	21878
+9	0115490816	23451
+10	0115490816	25644
+11	0113881088	10593
+12	0113344512	17893
+13	0113881088	19352
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 114417664
+virtual addr: 0 - on memory: no - addr on disk: 15 - last time used: 14777
+virtual addr: 1 - on memory: no - addr on disk: 17 - last time used: 16511
+virtual addr: 2 - on memory: no - addr on disk: 11 - last time used: 17620
+virtual addr: 3 - on memory: yes - addr on memory: 0 - last time used: 19743
+virtual addr: 4 - on memory: yes - addr on memory: 15 - last time used: 21299
+virtual addr: 5 - on memory: yes - addr on memory: 2 - last time used: 24041
+virtual addr: 6 - on memory: yes - addr on memory: 4 - last time used: 26149
+
+
+>> tid 114954240 solicitando pagina
+>> WSL atingiu limite. swap out em 5. conteudo movido para 19 no disco
+ADDR	TID		VALUE
+0	0114417664	19727
+1	0113881088	22533
+2	0114417664	23965
+3	0114954240	24811
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	20242
+7	0113344512	8241
+8	0114954240	21878
+9	0115490816	23451
+10	0115490816	25644
+11	0113881088	10593
+12	0113344512	17893
+13	0113881088	19352
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 114954240
+virtual addr: 0 - on memory: no - addr on disk: 19 - last time used: 18883
+virtual addr: 1 - on memory: yes - addr on memory: 6 - last time used: 20302
+virtual addr: 2 - on memory: yes - addr on memory: 8 - last time used: 21950
+virtual addr: 3 - on memory: yes - addr on memory: 3 - last time used: 24846
+virtual addr: 4 - on memory: yes - addr on memory: 5 - last time used: 26841
+
+
+>> tid 115490816 solicitando pagina
+>> Memoria atingiu limite. swap out em 12. conteudo movido para 20 no disco
+ADDR	TID		VALUE
+0	0114417664	19727
+1	0113881088	22533
+2	0114417664	23965
+3	0114954240	24811
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	20242
+7	0113344512	8241
+8	0114954240	21878
+9	0115490816	23451
+10	0115490816	25644
+11	0113881088	10593
+12	0115490816	27630
+13	0113881088	19352
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 115490816
+virtual addr: 0 - on memory: yes - addr on memory: 9 - last time used: 23487
+virtual addr: 1 - on memory: yes - addr on memory: 10 - last time used: 25669
+virtual addr: 2 - on memory: yes - addr on memory: 12 - last time used: 27717
+
+
+>> tid 114417664 solicitando pagina
+>> WSL atingiu limite. swap out em 0. conteudo movido para 20 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0113881088	22533
+2	0114417664	23965
+3	0114954240	24811
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	20242
+7	0113344512	8241
+8	0114954240	21878
+9	0115490816	23451
+10	0115490816	25644
+11	0113881088	10593
+12	0115490816	27630
+13	0113881088	19352
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 114417664
+virtual addr: 0 - on memory: no - addr on disk: 15 - last time used: 14777
+virtual addr: 1 - on memory: no - addr on disk: 17 - last time used: 16511
+virtual addr: 2 - on memory: no - addr on disk: 11 - last time used: 17620
+virtual addr: 3 - on memory: no - addr on disk: 20 - last time used: 19743
+virtual addr: 4 - on memory: yes - addr on memory: 15 - last time used: 21299
+virtual addr: 5 - on memory: yes - addr on memory: 2 - last time used: 24041
+virtual addr: 6 - on memory: yes - addr on memory: 4 - last time used: 26149
+virtual addr: 7 - on memory: yes - addr on memory: 0 - last time used: 28695
+
+
+>> tid 116027392 solicitando pagina
+>> Memoria atingiu limite. swap out em 13. conteudo movido para 21 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0113881088	22533
+2	0114417664	23965
+3	0114954240	24811
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	20242
+7	0113344512	8241
+8	0114954240	21878
+9	0115490816	23451
+10	0115490816	25644
+11	0113881088	10593
+12	0115490816	27630
+13	0116027392	29393
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 116027392
+virtual addr: 0 - on memory: yes - addr on memory: 13 - last time used: 29411
+
+
+>> tid 114954240 solicitando pagina
+>> WSL atingiu limite. swap out em 6. conteudo movido para 21 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0113881088	22533
+2	0114417664	23965
+3	0114954240	24811
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	29709
+7	0113344512	8241
+8	0114954240	21878
+9	0115490816	23451
+10	0115490816	25644
+11	0113881088	10593
+12	0115490816	27630
+13	0116027392	29393
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 114954240
+virtual addr: 0 - on memory: no - addr on disk: 19 - last time used: 18883
+virtual addr: 1 - on memory: no - addr on disk: 21 - last time used: 20302
+virtual addr: 2 - on memory: yes - addr on memory: 8 - last time used: 21950
+virtual addr: 3 - on memory: yes - addr on memory: 3 - last time used: 24846
+virtual addr: 4 - on memory: yes - addr on memory: 5 - last time used: 26841
+virtual addr: 5 - on memory: yes - addr on memory: 6 - last time used: 29797
+
+
+>> tid 115490816 solicitando pagina
+>> Memoria atingiu limite. swap out em 7. conteudo movido para 22 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0113881088	22533
+2	0114417664	23965
+3	0114954240	24811
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	29709
+7	0115490816	30497
+8	0114954240	21878
+9	0115490816	23451
+10	0115490816	25644
+11	0113881088	10593
+12	0115490816	27630
+13	0116027392	29393
+14	0113881088	20752
+15	0114417664	21266
+Virtual Page Table for tid 115490816
+virtual addr: 0 - on memory: yes - addr on memory: 9 - last time used: 23487
+virtual addr: 1 - on memory: yes - addr on memory: 10 - last time used: 25669
+virtual addr: 2 - on memory: yes - addr on memory: 12 - last time used: 27717
+virtual addr: 3 - on memory: yes - addr on memory: 7 - last time used: 30533
+>> WSL atingiu limite. swap out em 15. conteudo movido para 22 no disco
+>>> final da tid 114417664. acessando valor do end virtual 0: 14764
+
+
+>> tid 116027392 solicitando pagina
+>> Memoria atingiu limite. swap out em 14. conteudo movido para 15 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0113881088	22533
+2	0114417664	23965
+3	0114954240	24811
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	29709
+7	0115490816	30497
+8	0114954240	21878
+9	0115490816	23451
+10	0115490816	25644
+11	0113881088	10593
+12	0115490816	27630
+13	0116027392	29393
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 116027392
+virtual addr: 0 - on memory: yes - addr on memory: 13 - last time used: 29411
+virtual addr: 1 - on memory: yes - addr on memory: 14 - last time used: 31360
+
+
+>> tid 114954240 solicitando pagina
+>> WSL atingiu limite. swap out em 8. conteudo movido para 15 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0113881088	22533
+2	0114417664	23965
+3	0114954240	24811
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	29709
+7	0115490816	30497
+8	0114954240	31751
+9	0115490816	23451
+10	0115490816	25644
+11	0113881088	10593
+12	0115490816	27630
+13	0116027392	29393
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 114954240
+virtual addr: 0 - on memory: no - addr on disk: 19 - last time used: 18883
+virtual addr: 1 - on memory: no - addr on disk: 21 - last time used: 20302
+virtual addr: 2 - on memory: no - addr on disk: 15 - last time used: 21950
+virtual addr: 3 - on memory: yes - addr on memory: 3 - last time used: 24846
+virtual addr: 4 - on memory: yes - addr on memory: 5 - last time used: 26841
+virtual addr: 5 - on memory: yes - addr on memory: 6 - last time used: 29797
+virtual addr: 6 - on memory: yes - addr on memory: 8 - last time used: 31789
+
+
+>> tid 115490816 solicitando pagina
+>> WSL atingiu limite. swap out em 9. conteudo movido para 23 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0113881088	22533
+2	0114417664	23965
+3	0114954240	24811
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	29709
+7	0115490816	30497
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	25644
+11	0113881088	10593
+12	0115490816	27630
+13	0116027392	29393
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 115490816
+virtual addr: 0 - on memory: no - addr on disk: 23 - last time used: 23487
+virtual addr: 1 - on memory: yes - addr on memory: 10 - last time used: 25669
+virtual addr: 2 - on memory: yes - addr on memory: 12 - last time used: 27717
+virtual addr: 3 - on memory: yes - addr on memory: 7 - last time used: 30533
+virtual addr: 4 - on memory: yes - addr on memory: 9 - last time used: 32400
+
+
+>> tid 116027392 solicitando pagina
+>> Memoria atingiu limite. swap out em 1. conteudo movido para 24 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0116027392	32866
+2	0114417664	23965
+3	0114954240	24811
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	29709
+7	0115490816	30497
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	25644
+11	0113881088	10593
+12	0115490816	27630
+13	0116027392	29393
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 116027392
+virtual addr: 0 - on memory: yes - addr on memory: 13 - last time used: 29411
+virtual addr: 1 - on memory: yes - addr on memory: 14 - last time used: 31360
+virtual addr: 2 - on memory: yes - addr on memory: 1 - last time used: 32901
+
+
+>> tid 114954240 solicitando pagina
+>> WSL atingiu limite. swap out em 3. conteudo movido para 24 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0116027392	32866
+2	0114417664	23965
+3	0114954240	33412
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	29709
+7	0115490816	30497
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	25644
+11	0113881088	10593
+12	0115490816	27630
+13	0116027392	29393
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 114954240
+virtual addr: 0 - on memory: no - addr on disk: 19 - last time used: 18883
+virtual addr: 1 - on memory: no - addr on disk: 21 - last time used: 20302
+virtual addr: 2 - on memory: no - addr on disk: 15 - last time used: 21950
+virtual addr: 3 - on memory: no - addr on disk: 24 - last time used: 24846
+virtual addr: 4 - on memory: yes - addr on memory: 5 - last time used: 26841
+virtual addr: 5 - on memory: yes - addr on memory: 6 - last time used: 29797
+virtual addr: 6 - on memory: yes - addr on memory: 8 - last time used: 31789
+virtual addr: 7 - on memory: yes - addr on memory: 3 - last time used: 33489
+
+
+>> tid 116563968 solicitando pagina
+>> Memoria atingiu limite. swap out em 2. conteudo movido para 25 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0116027392	32866
+2	0116563968	34244
+3	0114954240	33412
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	29709
+7	0115490816	30497
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	25644
+11	0113881088	10593
+12	0115490816	27630
+13	0116027392	29393
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 116563968
+virtual addr: 0 - on memory: yes - addr on memory: 2 - last time used: 34271
+
+
+>> tid 115490816 solicitando pagina
+>> WSL atingiu limite. swap out em 10. conteudo movido para 25 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0116027392	32866
+2	0116563968	34244
+3	0114954240	33412
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	29709
+7	0115490816	30497
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	34622
+11	0113881088	10593
+12	0115490816	27630
+13	0116027392	29393
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 115490816
+virtual addr: 0 - on memory: no - addr on disk: 23 - last time used: 23487
+virtual addr: 1 - on memory: no - addr on disk: 25 - last time used: 25669
+virtual addr: 2 - on memory: yes - addr on memory: 12 - last time used: 27717
+virtual addr: 3 - on memory: yes - addr on memory: 7 - last time used: 30533
+virtual addr: 4 - on memory: yes - addr on memory: 9 - last time used: 32400
+virtual addr: 5 - on memory: yes - addr on memory: 10 - last time used: 34650
+
+
+>> tid 116027392 solicitando pagina
+>> Memoria atingiu limite. swap out em 11. conteudo movido para 26 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0116027392	32866
+2	0116563968	34244
+3	0114954240	33412
+4	0114417664	26073
+5	0114954240	26760
+6	0114954240	29709
+7	0115490816	30497
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	34622
+11	0116027392	35093
+12	0115490816	27630
+13	0116027392	29393
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 116027392
+virtual addr: 0 - on memory: yes - addr on memory: 13 - last time used: 29411
+virtual addr: 1 - on memory: yes - addr on memory: 14 - last time used: 31360
+virtual addr: 2 - on memory: yes - addr on memory: 1 - last time used: 32901
+virtual addr: 3 - on memory: yes - addr on memory: 11 - last time used: 35130
+>> WSL atingiu limite. swap out em 5. conteudo movido para 26 no disco
+>>> final da tid 114954240. acessando valor do end virtual 0: 18826
+
+
+>> tid 116563968 solicitando pagina
+>> Memoria atingiu limite. swap out em 4. conteudo movido para 19 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0116027392	32866
+2	0116563968	34244
+3	0114954240	33412
+4	0116563968	35880
+5	0114954240	18826
+6	0114954240	29709
+7	0115490816	30497
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	34622
+11	0116027392	35093
+12	0115490816	27630
+13	0116027392	29393
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 116563968
+virtual addr: 0 - on memory: yes - addr on memory: 2 - last time used: 34271
+virtual addr: 1 - on memory: yes - addr on memory: 4 - last time used: 35927
+
+
+>> tid 115490816 solicitando pagina
+>> WSL atingiu limite. swap out em 12. conteudo movido para 19 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0116027392	32866
+2	0116563968	34244
+3	0114954240	33412
+4	0116563968	35880
+5	0114954240	18826
+6	0114954240	29709
+7	0115490816	30497
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	34622
+11	0116027392	35093
+12	0115490816	36373
+13	0116027392	29393
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 115490816
+virtual addr: 0 - on memory: no - addr on disk: 23 - last time used: 23487
+virtual addr: 1 - on memory: no - addr on disk: 25 - last time used: 25669
+virtual addr: 2 - on memory: no - addr on disk: 19 - last time used: 27717
+virtual addr: 3 - on memory: yes - addr on memory: 7 - last time used: 30533
+virtual addr: 4 - on memory: yes - addr on memory: 9 - last time used: 32400
+virtual addr: 5 - on memory: yes - addr on memory: 10 - last time used: 34650
+virtual addr: 6 - on memory: yes - addr on memory: 12 - last time used: 36486
+
+
+>> tid 116027392 solicitando pagina
+>> WSL atingiu limite. swap out em 13. conteudo movido para 27 no disco
+ADDR	TID		VALUE
+0	0114417664	28614
+1	0116027392	32866
+2	0116563968	34244
+3	0114954240	33412
+4	0116563968	35880
+5	0114954240	18826
+6	0114954240	29709
+7	0115490816	30497
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	34622
+11	0116027392	35093
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 116027392
+virtual addr: 0 - on memory: no - addr on disk: 27 - last time used: 29411
+virtual addr: 1 - on memory: yes - addr on memory: 14 - last time used: 31360
+virtual addr: 2 - on memory: yes - addr on memory: 1 - last time used: 32901
+virtual addr: 3 - on memory: yes - addr on memory: 11 - last time used: 35130
+virtual addr: 4 - on memory: yes - addr on memory: 13 - last time used: 36898
+
+
+>> tid 116563968 solicitando pagina
+>> Memoria atingiu limite. swap out em 0. conteudo movido para 28 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	32866
+2	0116563968	34244
+3	0114954240	33412
+4	0116563968	35880
+5	0114954240	18826
+6	0114954240	29709
+7	0115490816	30497
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	34622
+11	0116027392	35093
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 116563968
+virtual addr: 0 - on memory: yes - addr on memory: 2 - last time used: 34271
+virtual addr: 1 - on memory: yes - addr on memory: 4 - last time used: 35927
+virtual addr: 2 - on memory: yes - addr on memory: 0 - last time used: 37391
+
+
+>> tid 115490816 solicitando pagina
+>> WSL atingiu limite. swap out em 7. conteudo movido para 28 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	32866
+2	0116563968	34244
+3	0114954240	33412
+4	0116563968	35880
+5	0114954240	18826
+6	0114954240	29709
+7	0115490816	37904
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	34622
+11	0116027392	35093
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 115490816
+virtual addr: 0 - on memory: no - addr on disk: 23 - last time used: 23487
+virtual addr: 1 - on memory: no - addr on disk: 25 - last time used: 25669
+virtual addr: 2 - on memory: no - addr on disk: 19 - last time used: 27717
+virtual addr: 3 - on memory: no - addr on disk: 28 - last time used: 30533
+virtual addr: 4 - on memory: yes - addr on memory: 9 - last time used: 32400
+virtual addr: 5 - on memory: yes - addr on memory: 10 - last time used: 34650
+virtual addr: 6 - on memory: yes - addr on memory: 12 - last time used: 36486
+virtual addr: 7 - on memory: yes - addr on memory: 7 - last time used: 37943
+
+
+>> tid 117100544 solicitando pagina
+>> Memoria atingiu limite. swap out em 6. conteudo movido para 29 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	32866
+2	0116563968	34244
+3	0114954240	33412
+4	0116563968	35880
+5	0114954240	18826
+6	0117100544	38820
+7	0115490816	37904
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	34622
+11	0116027392	35093
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	31298
+15	0114417664	14764
+Virtual Page Table for tid 117100544
+virtual addr: 0 - on memory: yes - addr on memory: 6 - last time used: 38857
+
+
+>> tid 116027392 solicitando pagina
+>> WSL atingiu limite. swap out em 14. conteudo movido para 29 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	32866
+2	0116563968	34244
+3	0114954240	33412
+4	0116563968	35880
+5	0114954240	18826
+6	0117100544	38820
+7	0115490816	37904
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	34622
+11	0116027392	35093
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	39218
+15	0114417664	14764
+Virtual Page Table for tid 116027392
+virtual addr: 0 - on memory: no - addr on disk: 27 - last time used: 29411
+virtual addr: 1 - on memory: no - addr on disk: 29 - last time used: 31360
+virtual addr: 2 - on memory: yes - addr on memory: 1 - last time used: 32901
+virtual addr: 3 - on memory: yes - addr on memory: 11 - last time used: 35130
+virtual addr: 4 - on memory: yes - addr on memory: 13 - last time used: 36898
+virtual addr: 5 - on memory: yes - addr on memory: 14 - last time used: 39248
+
+
+>> tid 116563968 solicitando pagina
+>> Memoria atingiu limite. swap out em 15. conteudo movido para 30 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	32866
+2	0116563968	34244
+3	0114954240	33412
+4	0116563968	35880
+5	0114954240	18826
+6	0117100544	38820
+7	0115490816	37904
+8	0114954240	31751
+9	0115490816	32330
+10	0115490816	34622
+11	0116027392	35093
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	39218
+15	0116563968	39866
+Virtual Page Table for tid 116563968
+virtual addr: 0 - on memory: yes - addr on memory: 2 - last time used: 34271
+virtual addr: 1 - on memory: yes - addr on memory: 4 - last time used: 35927
+virtual addr: 2 - on memory: yes - addr on memory: 0 - last time used: 37391
+virtual addr: 3 - on memory: yes - addr on memory: 15 - last time used: 39943
+>> WSL atingiu limite. swap out em 9. conteudo movido para 30 no disco
+>>> final da tid 115490816. acessando valor do end virtual 0: 23451
+
+
+>> tid 117100544 solicitando pagina
+>> Memoria atingiu limite. swap out em 8. conteudo movido para 23 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	32866
+2	0116563968	34244
+3	0114954240	33412
+4	0116563968	35880
+5	0114954240	18826
+6	0117100544	38820
+7	0115490816	37904
+8	0117100544	41029
+9	0115490816	23451
+10	0115490816	34622
+11	0116027392	35093
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	39218
+15	0116563968	39866
+Virtual Page Table for tid 117100544
+virtual addr: 0 - on memory: yes - addr on memory: 6 - last time used: 38857
+virtual addr: 1 - on memory: yes - addr on memory: 8 - last time used: 41102
+
+
+>> tid 116027392 solicitando pagina
+>> WSL atingiu limite. swap out em 1. conteudo movido para 23 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	41656
+2	0116563968	34244
+3	0114954240	33412
+4	0116563968	35880
+5	0114954240	18826
+6	0117100544	38820
+7	0115490816	37904
+8	0117100544	41029
+9	0115490816	23451
+10	0115490816	34622
+11	0116027392	35093
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	39218
+15	0116563968	39866
+Virtual Page Table for tid 116027392
+virtual addr: 0 - on memory: no - addr on disk: 27 - last time used: 29411
+virtual addr: 1 - on memory: no - addr on disk: 29 - last time used: 31360
+virtual addr: 2 - on memory: no - addr on disk: 23 - last time used: 32901
+virtual addr: 3 - on memory: yes - addr on memory: 11 - last time used: 35130
+virtual addr: 4 - on memory: yes - addr on memory: 13 - last time used: 36898
+virtual addr: 5 - on memory: yes - addr on memory: 14 - last time used: 39248
+virtual addr: 6 - on memory: yes - addr on memory: 1 - last time used: 41714
+
+
+>> tid 116563968 solicitando pagina
+>> WSL atingiu limite. swap out em 2. conteudo movido para 31 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	41656
+2	0116563968	42159
+3	0114954240	33412
+4	0116563968	35880
+5	0114954240	18826
+6	0117100544	38820
+7	0115490816	37904
+8	0117100544	41029
+9	0115490816	23451
+10	0115490816	34622
+11	0116027392	35093
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	39218
+15	0116563968	39866
+Virtual Page Table for tid 116563968
+virtual addr: 0 - on memory: no - addr on disk: 31 - last time used: 34271
+virtual addr: 1 - on memory: yes - addr on memory: 4 - last time used: 35927
+virtual addr: 2 - on memory: yes - addr on memory: 0 - last time used: 37391
+virtual addr: 3 - on memory: yes - addr on memory: 15 - last time used: 39943
+virtual addr: 4 - on memory: yes - addr on memory: 2 - last time used: 42174
+
+
+>> tid 117100544 solicitando pagina
+>> Memoria atingiu limite. swap out em 3. conteudo movido para 32 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	41656
+2	0116563968	42159
+3	0117100544	42422
+4	0116563968	35880
+5	0114954240	18826
+6	0117100544	38820
+7	0115490816	37904
+8	0117100544	41029
+9	0115490816	23451
+10	0115490816	34622
+11	0116027392	35093
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	39218
+15	0116563968	39866
+Virtual Page Table for tid 117100544
+virtual addr: 0 - on memory: yes - addr on memory: 6 - last time used: 38857
+virtual addr: 1 - on memory: yes - addr on memory: 8 - last time used: 41102
+virtual addr: 2 - on memory: yes - addr on memory: 3 - last time used: 42454
+
+
+>> tid 116027392 solicitando pagina
+>> WSL atingiu limite. swap out em 11. conteudo movido para 32 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	41656
+2	0116563968	42159
+3	0117100544	42422
+4	0116563968	35880
+5	0114954240	18826
+6	0117100544	38820
+7	0115490816	37904
+8	0117100544	41029
+9	0115490816	23451
+10	0115490816	34622
+11	0116027392	43011
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	39218
+15	0116563968	39866
+Virtual Page Table for tid 116027392
+virtual addr: 0 - on memory: no - addr on disk: 27 - last time used: 29411
+virtual addr: 1 - on memory: no - addr on disk: 29 - last time used: 31360
+virtual addr: 2 - on memory: no - addr on disk: 23 - last time used: 32901
+virtual addr: 3 - on memory: no - addr on disk: 32 - last time used: 35130
+virtual addr: 4 - on memory: yes - addr on memory: 13 - last time used: 36898
+virtual addr: 5 - on memory: yes - addr on memory: 14 - last time used: 39248
+virtual addr: 6 - on memory: yes - addr on memory: 1 - last time used: 41714
+virtual addr: 7 - on memory: yes - addr on memory: 11 - last time used: 43083
+
+
+>> tid 117637120 solicitando pagina
+>> Memoria atingiu limite. swap out em 10. conteudo movido para 33 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	41656
+2	0116563968	42159
+3	0117100544	42422
+4	0116563968	35880
+5	0114954240	18826
+6	0117100544	38820
+7	0115490816	37904
+8	0117100544	41029
+9	0115490816	23451
+10	0117637120	43942
+11	0116027392	43011
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	39218
+15	0116563968	39866
+Virtual Page Table for tid 117637120
+virtual addr: 0 - on memory: yes - addr on memory: 10 - last time used: 43968
+
+
+>> tid 116563968 solicitando pagina
+>> WSL atingiu limite. swap out em 4. conteudo movido para 33 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	41656
+2	0116563968	42159
+3	0117100544	42422
+4	0116563968	44374
+5	0114954240	18826
+6	0117100544	38820
+7	0115490816	37904
+8	0117100544	41029
+9	0115490816	23451
+10	0117637120	43942
+11	0116027392	43011
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	39218
+15	0116563968	39866
+Virtual Page Table for tid 116563968
+virtual addr: 0 - on memory: no - addr on disk: 31 - last time used: 34271
+virtual addr: 1 - on memory: no - addr on disk: 33 - last time used: 35927
+virtual addr: 2 - on memory: yes - addr on memory: 0 - last time used: 37391
+virtual addr: 3 - on memory: yes - addr on memory: 15 - last time used: 39943
+virtual addr: 4 - on memory: yes - addr on memory: 2 - last time used: 42174
+virtual addr: 5 - on memory: yes - addr on memory: 4 - last time used: 44409
+
+
+>> tid 117100544 solicitando pagina
+>> Memoria atingiu limite. swap out em 5. conteudo movido para 34 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	41656
+2	0116563968	42159
+3	0117100544	42422
+4	0116563968	44374
+5	0117100544	44971
+6	0117100544	38820
+7	0115490816	37904
+8	0117100544	41029
+9	0115490816	23451
+10	0117637120	43942
+11	0116027392	43011
+12	0115490816	36373
+13	0116027392	36875
+14	0116027392	39218
+15	0116563968	39866
+Virtual Page Table for tid 117100544
+virtual addr: 0 - on memory: yes - addr on memory: 6 - last time used: 38857
+virtual addr: 1 - on memory: yes - addr on memory: 8 - last time used: 41102
+virtual addr: 2 - on memory: yes - addr on memory: 3 - last time used: 42454
+virtual addr: 3 - on memory: yes - addr on memory: 5 - last time used: 45035
+>> WSL atingiu limite. swap out em 13. conteudo movido para 34 no disco
+>>> final da tid 116027392. acessando valor do end virtual 0: 29393
+
+
+>> tid 117637120 solicitando pagina
+>> Memoria atingiu limite. swap out em 12. conteudo movido para 27 no disco
+ADDR	TID		VALUE
+0	0116563968	37354
+1	0116027392	41656
+2	0116563968	42159
+3	0117100544	42422
+4	0116563968	44374
+5	0117100544	44971
+6	0117100544	38820
+7	0115490816	37904
+8	0117100544	41029
+9	0115490816	23451
+10	0117637120	43942
+11	0116027392	43011
+12	0117637120	45657
+13	0116027392	29393
+14	0116027392	39218
+15	0116563968	39866
+Virtual Page Table for tid 117637120
+virtual addr: 0 - on memory: yes - addr on memory: 10 - last time used: 43968
+virtual addr: 1 - on memory: yes - addr on memory: 12 - last time used: 45675
+
+
+>> tid 116563968 solicitando pagina
+>> WSL atingiu limite. swap out em 0. conteudo movido para 27 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0116027392	41656
+2	0116563968	42159
+3	0117100544	42422
+4	0116563968	44374
+5	0117100544	44971
+6	0117100544	38820
+7	0115490816	37904
+8	0117100544	41029
+9	0115490816	23451
+10	0117637120	43942
+11	0116027392	43011
+12	0117637120	45657
+13	0116027392	29393
+14	0116027392	39218
+15	0116563968	39866
+Virtual Page Table for tid 116563968
+virtual addr: 0 - on memory: no - addr on disk: 31 - last time used: 34271
+virtual addr: 1 - on memory: no - addr on disk: 33 - last time used: 35927
+virtual addr: 2 - on memory: no - addr on disk: 27 - last time used: 37391
+virtual addr: 3 - on memory: yes - addr on memory: 15 - last time used: 39943
+virtual addr: 4 - on memory: yes - addr on memory: 2 - last time used: 42174
+virtual addr: 5 - on memory: yes - addr on memory: 4 - last time used: 44409
+virtual addr: 6 - on memory: yes - addr on memory: 0 - last time used: 45967
+
+
+>> tid 117100544 solicitando pagina
+>> WSL atingiu limite. swap out em 6. conteudo movido para 35 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0116027392	41656
+2	0116563968	42159
+3	0117100544	42422
+4	0116563968	44374
+5	0117100544	44971
+6	0117100544	46471
+7	0115490816	37904
+8	0117100544	41029
+9	0115490816	23451
+10	0117637120	43942
+11	0116027392	43011
+12	0117637120	45657
+13	0116027392	29393
+14	0116027392	39218
+15	0116563968	39866
+Virtual Page Table for tid 117100544
+virtual addr: 0 - on memory: no - addr on disk: 35 - last time used: 38857
+virtual addr: 1 - on memory: yes - addr on memory: 8 - last time used: 41102
+virtual addr: 2 - on memory: yes - addr on memory: 3 - last time used: 42454
+virtual addr: 3 - on memory: yes - addr on memory: 5 - last time used: 45035
+virtual addr: 4 - on memory: yes - addr on memory: 6 - last time used: 46510
+
+
+>> tid 117637120 solicitando pagina
+>> Memoria atingiu limite. swap out em 7. conteudo movido para 36 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0116027392	41656
+2	0116563968	42159
+3	0117100544	42422
+4	0116563968	44374
+5	0117100544	44971
+6	0117100544	46471
+7	0117637120	46999
+8	0117100544	41029
+9	0115490816	23451
+10	0117637120	43942
+11	0116027392	43011
+12	0117637120	45657
+13	0116027392	29393
+14	0116027392	39218
+15	0116563968	39866
+Virtual Page Table for tid 117637120
+virtual addr: 0 - on memory: yes - addr on memory: 10 - last time used: 43968
+virtual addr: 1 - on memory: yes - addr on memory: 12 - last time used: 45675
+virtual addr: 2 - on memory: yes - addr on memory: 7 - last time used: 47031
+
+
+>> tid 116563968 solicitando pagina
+>> WSL atingiu limite. swap out em 15. conteudo movido para 36 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0116027392	41656
+2	0116563968	42159
+3	0117100544	42422
+4	0116563968	44374
+5	0117100544	44971
+6	0117100544	46471
+7	0117637120	46999
+8	0117100544	41029
+9	0115490816	23451
+10	0117637120	43942
+11	0116027392	43011
+12	0117637120	45657
+13	0116027392	29393
+14	0116027392	39218
+15	0116563968	47427
+Virtual Page Table for tid 116563968
+virtual addr: 0 - on memory: no - addr on disk: 31 - last time used: 34271
+virtual addr: 1 - on memory: no - addr on disk: 33 - last time used: 35927
+virtual addr: 2 - on memory: no - addr on disk: 27 - last time used: 37391
+virtual addr: 3 - on memory: no - addr on disk: 36 - last time used: 39943
+virtual addr: 4 - on memory: yes - addr on memory: 2 - last time used: 42174
+virtual addr: 5 - on memory: yes - addr on memory: 4 - last time used: 44409
+virtual addr: 6 - on memory: yes - addr on memory: 0 - last time used: 45967
+virtual addr: 7 - on memory: yes - addr on memory: 15 - last time used: 47463
+
+
+>> tid 118173696 solicitando pagina
+>> Memoria atingiu limite. swap out em 14. conteudo movido para 37 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0116027392	41656
+2	0116563968	42159
+3	0117100544	42422
+4	0116563968	44374
+5	0117100544	44971
+6	0117100544	46471
+7	0117637120	46999
+8	0117100544	41029
+9	0115490816	23451
+10	0117637120	43942
+11	0116027392	43011
+12	0117637120	45657
+13	0116027392	29393
+14	0118173696	48321
+15	0116563968	47427
+Virtual Page Table for tid 118173696
+virtual addr: 0 - on memory: yes - addr on memory: 14 - last time used: 48347
+
+
+>> tid 117100544 solicitando pagina
+>> WSL atingiu limite. swap out em 8. conteudo movido para 37 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0116027392	41656
+2	0116563968	42159
+3	0117100544	42422
+4	0116563968	44374
+5	0117100544	44971
+6	0117100544	46471
+7	0117637120	46999
+8	0117100544	48745
+9	0115490816	23451
+10	0117637120	43942
+11	0116027392	43011
+12	0117637120	45657
+13	0116027392	29393
+14	0118173696	48321
+15	0116563968	47427
+Virtual Page Table for tid 117100544
+virtual addr: 0 - on memory: no - addr on disk: 35 - last time used: 38857
+virtual addr: 1 - on memory: no - addr on disk: 37 - last time used: 41102
+virtual addr: 2 - on memory: yes - addr on memory: 3 - last time used: 42454
+virtual addr: 3 - on memory: yes - addr on memory: 5 - last time used: 45035
+virtual addr: 4 - on memory: yes - addr on memory: 6 - last time used: 46510
+virtual addr: 5 - on memory: yes - addr on memory: 8 - last time used: 48816
+
+
+>> tid 117637120 solicitando pagina
+>> Memoria atingiu limite. swap out em 9. conteudo movido para 38 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0116027392	41656
+2	0116563968	42159
+3	0117100544	42422
+4	0116563968	44374
+5	0117100544	44971
+6	0117100544	46471
+7	0117637120	46999
+8	0117100544	48745
+9	0117637120	49319
+10	0117637120	43942
+11	0116027392	43011
+12	0117637120	45657
+13	0116027392	29393
+14	0118173696	48321
+15	0116563968	47427
+Virtual Page Table for tid 117637120
+virtual addr: 0 - on memory: yes - addr on memory: 10 - last time used: 43968
+virtual addr: 1 - on memory: yes - addr on memory: 12 - last time used: 45675
+virtual addr: 2 - on memory: yes - addr on memory: 7 - last time used: 47031
+virtual addr: 3 - on memory: yes - addr on memory: 9 - last time used: 49346
+>> WSL atingiu limite. swap out em 2. conteudo movido para 38 no disco
+>>> final da tid 116563968. acessando valor do end virtual 0: 34244
+
+
+>> tid 118173696 solicitando pagina
+>> Memoria atingiu limite. swap out em 1. conteudo movido para 31 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	42422
+4	0116563968	44374
+5	0117100544	44971
+6	0117100544	46471
+7	0117637120	46999
+8	0117100544	48745
+9	0117637120	49319
+10	0117637120	43942
+11	0116027392	43011
+12	0117637120	45657
+13	0116027392	29393
+14	0118173696	48321
+15	0116563968	47427
+Virtual Page Table for tid 118173696
+virtual addr: 0 - on memory: yes - addr on memory: 14 - last time used: 48347
+virtual addr: 1 - on memory: yes - addr on memory: 1 - last time used: 50051
+
+
+>> tid 117100544 solicitando pagina
+>> WSL atingiu limite. swap out em 3. conteudo movido para 31 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	50511
+4	0116563968	44374
+5	0117100544	44971
+6	0117100544	46471
+7	0117637120	46999
+8	0117100544	48745
+9	0117637120	49319
+10	0117637120	43942
+11	0116027392	43011
+12	0117637120	45657
+13	0116027392	29393
+14	0118173696	48321
+15	0116563968	47427
+Virtual Page Table for tid 117100544
+virtual addr: 0 - on memory: no - addr on disk: 35 - last time used: 38857
+virtual addr: 1 - on memory: no - addr on disk: 37 - last time used: 41102
+virtual addr: 2 - on memory: no - addr on disk: 31 - last time used: 42454
+virtual addr: 3 - on memory: yes - addr on memory: 5 - last time used: 45035
+virtual addr: 4 - on memory: yes - addr on memory: 6 - last time used: 46510
+virtual addr: 5 - on memory: yes - addr on memory: 8 - last time used: 48816
+virtual addr: 6 - on memory: yes - addr on memory: 3 - last time used: 50588
+
+
+>> tid 117637120 solicitando pagina
+>> WSL atingiu limite. swap out em 10. conteudo movido para 39 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	50511
+4	0116563968	44374
+5	0117100544	44971
+6	0117100544	46471
+7	0117637120	46999
+8	0117100544	48745
+9	0117637120	49319
+10	0117637120	51118
+11	0116027392	43011
+12	0117637120	45657
+13	0116027392	29393
+14	0118173696	48321
+15	0116563968	47427
+Virtual Page Table for tid 117637120
+virtual addr: 0 - on memory: no - addr on disk: 39 - last time used: 43968
+virtual addr: 1 - on memory: yes - addr on memory: 12 - last time used: 45675
+virtual addr: 2 - on memory: yes - addr on memory: 7 - last time used: 47031
+virtual addr: 3 - on memory: yes - addr on memory: 9 - last time used: 49346
+virtual addr: 4 - on memory: yes - addr on memory: 10 - last time used: 51150
+
+
+>> tid 118173696 solicitando pagina
+>> Memoria atingiu limite. swap out em 11. conteudo movido para 40 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	50511
+4	0116563968	44374
+5	0117100544	44971
+6	0117100544	46471
+7	0117637120	46999
+8	0117100544	48745
+9	0117637120	49319
+10	0117637120	51118
+11	0118173696	51611
+12	0117637120	45657
+13	0116027392	29393
+14	0118173696	48321
+15	0116563968	47427
+Virtual Page Table for tid 118173696
+virtual addr: 0 - on memory: yes - addr on memory: 14 - last time used: 48347
+virtual addr: 1 - on memory: yes - addr on memory: 1 - last time used: 50051
+virtual addr: 2 - on memory: yes - addr on memory: 11 - last time used: 51649
+
+
+>> tid 117100544 solicitando pagina
+>> WSL atingiu limite. swap out em 5. conteudo movido para 40 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	50511
+4	0116563968	44374
+5	0117100544	52120
+6	0117100544	46471
+7	0117637120	46999
+8	0117100544	48745
+9	0117637120	49319
+10	0117637120	51118
+11	0118173696	51611
+12	0117637120	45657
+13	0116027392	29393
+14	0118173696	48321
+15	0116563968	47427
+Virtual Page Table for tid 117100544
+virtual addr: 0 - on memory: no - addr on disk: 35 - last time used: 38857
+virtual addr: 1 - on memory: no - addr on disk: 37 - last time used: 41102
+virtual addr: 2 - on memory: no - addr on disk: 31 - last time used: 42454
+virtual addr: 3 - on memory: no - addr on disk: 40 - last time used: 45035
+virtual addr: 4 - on memory: yes - addr on memory: 6 - last time used: 46510
+virtual addr: 5 - on memory: yes - addr on memory: 8 - last time used: 48816
+virtual addr: 6 - on memory: yes - addr on memory: 3 - last time used: 50588
+virtual addr: 7 - on memory: yes - addr on memory: 5 - last time used: 52155
+
+
+>> tid 118710272 solicitando pagina
+>> Memoria atingiu limite. swap out em 4. conteudo movido para 41 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	50511
+4	0118710272	53124
+5	0117100544	52120
+6	0117100544	46471
+7	0117637120	46999
+8	0117100544	48745
+9	0117637120	49319
+10	0117637120	51118
+11	0118173696	51611
+12	0117637120	45657
+13	0116027392	29393
+14	0118173696	48321
+15	0116563968	47427
+Virtual Page Table for tid 118710272
+virtual addr: 0 - on memory: yes - addr on memory: 4 - last time used: 53230
+
+
+>> tid 117637120 solicitando pagina
+>> WSL atingiu limite. swap out em 12. conteudo movido para 41 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	50511
+4	0118710272	53124
+5	0117100544	52120
+6	0117100544	46471
+7	0117637120	46999
+8	0117100544	48745
+9	0117637120	49319
+10	0117637120	51118
+11	0118173696	51611
+12	0117637120	53698
+13	0116027392	29393
+14	0118173696	48321
+15	0116563968	47427
+Virtual Page Table for tid 117637120
+virtual addr: 0 - on memory: no - addr on disk: 39 - last time used: 43968
+virtual addr: 1 - on memory: no - addr on disk: 41 - last time used: 45675
+virtual addr: 2 - on memory: yes - addr on memory: 7 - last time used: 47031
+virtual addr: 3 - on memory: yes - addr on memory: 9 - last time used: 49346
+virtual addr: 4 - on memory: yes - addr on memory: 10 - last time used: 51150
+virtual addr: 5 - on memory: yes - addr on memory: 12 - last time used: 53731
+
+
+>> tid 118173696 solicitando pagina
+>> Memoria atingiu limite. swap out em 13. conteudo movido para 42 no disco
+ADDR	TID		VALUE
+0	0116563968	45939
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	50511
+4	0118710272	53124
+5	0117100544	52120
+6	0117100544	46471
+7	0117637120	46999
+8	0117100544	48745
+9	0117637120	49319
+10	0117637120	51118
+11	0118173696	51611
+12	0117637120	53698
+13	0118173696	54305
+14	0118173696	48321
+15	0116563968	47427
+Virtual Page Table for tid 118173696
+virtual addr: 0 - on memory: yes - addr on memory: 14 - last time used: 48347
+virtual addr: 1 - on memory: yes - addr on memory: 1 - last time used: 50051
+virtual addr: 2 - on memory: yes - addr on memory: 11 - last time used: 51649
+virtual addr: 3 - on memory: yes - addr on memory: 13 - last time used: 54343
+>> WSL atingiu limite. swap out em 6. conteudo movido para 42 no disco
+>>> final da tid 117100544. acessando valor do end virtual 0: 38820
+
+
+>> tid 118710272 solicitando pagina
+>> Memoria atingiu limite. swap out em 0. conteudo movido para 35 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	50511
+4	0118710272	53124
+5	0117100544	52120
+6	0117100544	38820
+7	0117637120	46999
+8	0117100544	48745
+9	0117637120	49319
+10	0117637120	51118
+11	0118173696	51611
+12	0117637120	53698
+13	0118173696	54305
+14	0118173696	48321
+15	0116563968	47427
+Virtual Page Table for tid 118710272
+virtual addr: 0 - on memory: yes - addr on memory: 4 - last time used: 53230
+virtual addr: 1 - on memory: yes - addr on memory: 0 - last time used: 55176
+
+
+>> tid 117637120 solicitando pagina
+>> WSL atingiu limite. swap out em 7. conteudo movido para 35 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	50511
+4	0118710272	53124
+5	0117100544	52120
+6	0117100544	38820
+7	0117637120	55565
+8	0117100544	48745
+9	0117637120	49319
+10	0117637120	51118
+11	0118173696	51611
+12	0117637120	53698
+13	0118173696	54305
+14	0118173696	48321
+15	0116563968	47427
+Virtual Page Table for tid 117637120
+virtual addr: 0 - on memory: no - addr on disk: 39 - last time used: 43968
+virtual addr: 1 - on memory: no - addr on disk: 41 - last time used: 45675
+virtual addr: 2 - on memory: no - addr on disk: 35 - last time used: 47031
+virtual addr: 3 - on memory: yes - addr on memory: 9 - last time used: 49346
+virtual addr: 4 - on memory: yes - addr on memory: 10 - last time used: 51150
+virtual addr: 5 - on memory: yes - addr on memory: 12 - last time used: 53731
+virtual addr: 6 - on memory: yes - addr on memory: 7 - last time used: 55598
+
+
+>> tid 118173696 solicitando pagina
+>> WSL atingiu limite. swap out em 14. conteudo movido para 43 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	50511
+4	0118710272	53124
+5	0117100544	52120
+6	0117100544	38820
+7	0117637120	55565
+8	0117100544	48745
+9	0117637120	49319
+10	0117637120	51118
+11	0118173696	51611
+12	0117637120	53698
+13	0118173696	54305
+14	0118173696	55981
+15	0116563968	47427
+Virtual Page Table for tid 118173696
+virtual addr: 0 - on memory: no - addr on disk: 43 - last time used: 48347
+virtual addr: 1 - on memory: yes - addr on memory: 1 - last time used: 50051
+virtual addr: 2 - on memory: yes - addr on memory: 11 - last time used: 51649
+virtual addr: 3 - on memory: yes - addr on memory: 13 - last time used: 54343
+virtual addr: 4 - on memory: yes - addr on memory: 14 - last time used: 56050
+
+
+>> tid 118710272 solicitando pagina
+>> Memoria atingiu limite. swap out em 15. conteudo movido para 44 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	50511
+4	0118710272	53124
+5	0117100544	52120
+6	0117100544	38820
+7	0117637120	55565
+8	0117100544	48745
+9	0117637120	49319
+10	0117637120	51118
+11	0118173696	51611
+12	0117637120	53698
+13	0118173696	54305
+14	0118173696	55981
+15	0118710272	56827
+Virtual Page Table for tid 118710272
+virtual addr: 0 - on memory: yes - addr on memory: 4 - last time used: 53230
+virtual addr: 1 - on memory: yes - addr on memory: 0 - last time used: 55176
+virtual addr: 2 - on memory: yes - addr on memory: 15 - last time used: 56881
+
+
+>> tid 117637120 solicitando pagina
+>> WSL atingiu limite. swap out em 9. conteudo movido para 44 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	50511
+4	0118710272	53124
+5	0117100544	52120
+6	0117100544	38820
+7	0117637120	55565
+8	0117100544	48745
+9	0117637120	57341
+10	0117637120	51118
+11	0118173696	51611
+12	0117637120	53698
+13	0118173696	54305
+14	0118173696	55981
+15	0118710272	56827
+Virtual Page Table for tid 117637120
+virtual addr: 0 - on memory: no - addr on disk: 39 - last time used: 43968
+virtual addr: 1 - on memory: no - addr on disk: 41 - last time used: 45675
+virtual addr: 2 - on memory: no - addr on disk: 35 - last time used: 47031
+virtual addr: 3 - on memory: no - addr on disk: 44 - last time used: 49346
+virtual addr: 4 - on memory: yes - addr on memory: 10 - last time used: 51150
+virtual addr: 5 - on memory: yes - addr on memory: 12 - last time used: 53731
+virtual addr: 6 - on memory: yes - addr on memory: 7 - last time used: 55598
+virtual addr: 7 - on memory: yes - addr on memory: 9 - last time used: 57379
+
+
+>> tid 119246848 solicitando pagina
+>> Memoria atingiu limite. swap out em 8. conteudo movido para 45 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	50008
+2	0116563968	34244
+3	0117100544	50511
+4	0118710272	53124
+5	0117100544	52120
+6	0117100544	38820
+7	0117637120	55565
+8	0119246848	58213
+9	0117637120	57341
+10	0117637120	51118
+11	0118173696	51611
+12	0117637120	53698
+13	0118173696	54305
+14	0118173696	55981
+15	0118710272	56827
+Virtual Page Table for tid 119246848
+virtual addr: 0 - on memory: yes - addr on memory: 8 - last time used: 58289
+
+
+>> tid 118173696 solicitando pagina
+>> WSL atingiu limite. swap out em 1. conteudo movido para 45 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	58858
+2	0116563968	34244
+3	0117100544	50511
+4	0118710272	53124
+5	0117100544	52120
+6	0117100544	38820
+7	0117637120	55565
+8	0119246848	58213
+9	0117637120	57341
+10	0117637120	51118
+11	0118173696	51611
+12	0117637120	53698
+13	0118173696	54305
+14	0118173696	55981
+15	0118710272	56827
+Virtual Page Table for tid 118173696
+virtual addr: 0 - on memory: no - addr on disk: 43 - last time used: 48347
+virtual addr: 1 - on memory: no - addr on disk: 45 - last time used: 50051
+virtual addr: 2 - on memory: yes - addr on memory: 11 - last time used: 51649
+virtual addr: 3 - on memory: yes - addr on memory: 13 - last time used: 54343
+virtual addr: 4 - on memory: yes - addr on memory: 14 - last time used: 56050
+virtual addr: 5 - on memory: yes - addr on memory: 1 - last time used: 58987
+
+
+>> tid 118710272 solicitando pagina
+>> Memoria atingiu limite. swap out em 2. conteudo movido para 46 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	58858
+2	0118710272	59505
+3	0117100544	50511
+4	0118710272	53124
+5	0117100544	52120
+6	0117100544	38820
+7	0117637120	55565
+8	0119246848	58213
+9	0117637120	57341
+10	0117637120	51118
+11	0118173696	51611
+12	0117637120	53698
+13	0118173696	54305
+14	0118173696	55981
+15	0118710272	56827
+Virtual Page Table for tid 118710272
+virtual addr: 0 - on memory: yes - addr on memory: 4 - last time used: 53230
+virtual addr: 1 - on memory: yes - addr on memory: 0 - last time used: 55176
+virtual addr: 2 - on memory: yes - addr on memory: 15 - last time used: 56881
+virtual addr: 3 - on memory: yes - addr on memory: 2 - last time used: 59593
+>> WSL atingiu limite. swap out em 10. conteudo movido para 46 no disco
+>>> final da tid 117637120. acessando valor do end virtual 0: 43942
+
+
+>> tid 119246848 solicitando pagina
+>> Memoria atingiu limite. swap out em 3. conteudo movido para 39 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	58858
+2	0118710272	59505
+3	0119246848	60429
+4	0118710272	53124
+5	0117100544	52120
+6	0117100544	38820
+7	0117637120	55565
+8	0119246848	58213
+9	0117637120	57341
+10	0117637120	43942
+11	0118173696	51611
+12	0117637120	53698
+13	0118173696	54305
+14	0118173696	55981
+15	0118710272	56827
+Virtual Page Table for tid 119246848
+virtual addr: 0 - on memory: yes - addr on memory: 8 - last time used: 58289
+virtual addr: 1 - on memory: yes - addr on memory: 3 - last time used: 60584
+
+
+>> tid 118173696 solicitando pagina
+>> WSL atingiu limite. swap out em 11. conteudo movido para 39 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	58858
+2	0118710272	59505
+3	0119246848	60429
+4	0118710272	53124
+5	0117100544	52120
+6	0117100544	38820
+7	0117637120	55565
+8	0119246848	58213
+9	0117637120	57341
+10	0117637120	43942
+11	0118173696	61083
+12	0117637120	53698
+13	0118173696	54305
+14	0118173696	55981
+15	0118710272	56827
+Virtual Page Table for tid 118173696
+virtual addr: 0 - on memory: no - addr on disk: 43 - last time used: 48347
+virtual addr: 1 - on memory: no - addr on disk: 45 - last time used: 50051
+virtual addr: 2 - on memory: no - addr on disk: 39 - last time used: 51649
+virtual addr: 3 - on memory: yes - addr on memory: 13 - last time used: 54343
+virtual addr: 4 - on memory: yes - addr on memory: 14 - last time used: 56050
+virtual addr: 5 - on memory: yes - addr on memory: 1 - last time used: 58987
+virtual addr: 6 - on memory: yes - addr on memory: 11 - last time used: 61167
+
+
+>> tid 118710272 solicitando pagina
+>> WSL atingiu limite. swap out em 4. conteudo movido para 47 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	58858
+2	0118710272	59505
+3	0119246848	60429
+4	0118710272	61589
+5	0117100544	52120
+6	0117100544	38820
+7	0117637120	55565
+8	0119246848	58213
+9	0117637120	57341
+10	0117637120	43942
+11	0118173696	61083
+12	0117637120	53698
+13	0118173696	54305
+14	0118173696	55981
+15	0118710272	56827
+Virtual Page Table for tid 118710272
+virtual addr: 0 - on memory: no - addr on disk: 47 - last time used: 53230
+virtual addr: 1 - on memory: yes - addr on memory: 0 - last time used: 55176
+virtual addr: 2 - on memory: yes - addr on memory: 15 - last time used: 56881
+virtual addr: 3 - on memory: yes - addr on memory: 2 - last time used: 59593
+virtual addr: 4 - on memory: yes - addr on memory: 4 - last time used: 61621
+
+
+>> tid 119246848 solicitando pagina
+>> Memoria atingiu limite. swap out em 5. conteudo movido para 48 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	58858
+2	0118710272	59505
+3	0119246848	60429
+4	0118710272	61589
+5	0119246848	62108
+6	0117100544	38820
+7	0117637120	55565
+8	0119246848	58213
+9	0117637120	57341
+10	0117637120	43942
+11	0118173696	61083
+12	0117637120	53698
+13	0118173696	54305
+14	0118173696	55981
+15	0118710272	56827
+Virtual Page Table for tid 119246848
+virtual addr: 0 - on memory: yes - addr on memory: 8 - last time used: 58289
+virtual addr: 1 - on memory: yes - addr on memory: 3 - last time used: 60584
+virtual addr: 2 - on memory: yes - addr on memory: 5 - last time used: 62142
+
+
+>> tid 118173696 solicitando pagina
+>> WSL atingiu limite. swap out em 13. conteudo movido para 48 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	58858
+2	0118710272	59505
+3	0119246848	60429
+4	0118710272	61589
+5	0119246848	62108
+6	0117100544	38820
+7	0117637120	55565
+8	0119246848	58213
+9	0117637120	57341
+10	0117637120	43942
+11	0118173696	61083
+12	0117637120	53698
+13	0118173696	62630
+14	0118173696	55981
+15	0118710272	56827
+Virtual Page Table for tid 118173696
+virtual addr: 0 - on memory: no - addr on disk: 43 - last time used: 48347
+virtual addr: 1 - on memory: no - addr on disk: 45 - last time used: 50051
+virtual addr: 2 - on memory: no - addr on disk: 39 - last time used: 51649
+virtual addr: 3 - on memory: no - addr on disk: 48 - last time used: 54343
+virtual addr: 4 - on memory: yes - addr on memory: 14 - last time used: 56050
+virtual addr: 5 - on memory: yes - addr on memory: 1 - last time used: 58987
+virtual addr: 6 - on memory: yes - addr on memory: 11 - last time used: 61167
+virtual addr: 7 - on memory: yes - addr on memory: 13 - last time used: 62708
+
+
+>> tid 119783424 solicitando pagina
+>> Memoria atingiu limite. swap out em 12. conteudo movido para 49 no disco
+ADDR	TID		VALUE
+0	0118710272	55139
+1	0118173696	58858
+2	0118710272	59505
+3	0119246848	60429
+4	0118710272	61589
+5	0119246848	62108
+6	0117100544	38820
+7	0117637120	55565
+8	0119246848	58213
+9	0117637120	57341
+10	0117637120	43942
+11	0118173696	61083
+12	0119783424	63415
+13	0118173696	62630
+14	0118173696	55981
+15	0118710272	56827
+Virtual Page Table for tid 119783424
+virtual addr: 0 - on memory: yes - addr on memory: 12 - last time used: 63451
+
+
+>> tid 118710272 solicitando pagina
+>> WSL atingiu limite. swap out em 0. conteudo movido para 49 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0118173696	58858
+2	0118710272	59505
+3	0119246848	60429
+4	0118710272	61589
+5	0119246848	62108
+6	0117100544	38820
+7	0117637120	55565
+8	0119246848	58213
+9	0117637120	57341
+10	0117637120	43942
+11	0118173696	61083
+12	0119783424	63415
+13	0118173696	62630
+14	0118173696	55981
+15	0118710272	56827
+Virtual Page Table for tid 118710272
+virtual addr: 0 - on memory: no - addr on disk: 47 - last time used: 53230
+virtual addr: 1 - on memory: no - addr on disk: 49 - last time used: 55176
+virtual addr: 2 - on memory: yes - addr on memory: 15 - last time used: 56881
+virtual addr: 3 - on memory: yes - addr on memory: 2 - last time used: 59593
+virtual addr: 4 - on memory: yes - addr on memory: 4 - last time used: 61621
+virtual addr: 5 - on memory: yes - addr on memory: 0 - last time used: 63865
+
+
+>> tid 119246848 solicitando pagina
+>> Memoria atingiu limite. swap out em 6. conteudo movido para 50 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0118173696	58858
+2	0118710272	59505
+3	0119246848	60429
+4	0118710272	61589
+5	0119246848	62108
+6	0119246848	64342
+7	0117637120	55565
+8	0119246848	58213
+9	0117637120	57341
+10	0117637120	43942
+11	0118173696	61083
+12	0119783424	63415
+13	0118173696	62630
+14	0118173696	55981
+15	0118710272	56827
+Virtual Page Table for tid 119246848
+virtual addr: 0 - on memory: yes - addr on memory: 8 - last time used: 58289
+virtual addr: 1 - on memory: yes - addr on memory: 3 - last time used: 60584
+virtual addr: 2 - on memory: yes - addr on memory: 5 - last time used: 62142
+virtual addr: 3 - on memory: yes - addr on memory: 6 - last time used: 64381
+>> WSL atingiu limite. swap out em 14. conteudo movido para 50 no disco
+>>> final da tid 118173696. acessando valor do end virtual 0: 48321
+
+
+>> tid 119783424 solicitando pagina
+>> Memoria atingiu limite. swap out em 7. conteudo movido para 43 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0118173696	58858
+2	0118710272	59505
+3	0119246848	60429
+4	0118710272	61589
+5	0119246848	62108
+6	0119246848	64342
+7	0119783424	65119
+8	0119246848	58213
+9	0117637120	57341
+10	0117637120	43942
+11	0118173696	61083
+12	0119783424	63415
+13	0118173696	62630
+14	0118173696	48321
+15	0118710272	56827
+Virtual Page Table for tid 119783424
+virtual addr: 0 - on memory: yes - addr on memory: 12 - last time used: 63451
+virtual addr: 1 - on memory: yes - addr on memory: 7 - last time used: 65184
+
+
+>> tid 118710272 solicitando pagina
+>> WSL atingiu limite. swap out em 15. conteudo movido para 43 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0118173696	58858
+2	0118710272	59505
+3	0119246848	60429
+4	0118710272	61589
+5	0119246848	62108
+6	0119246848	64342
+7	0119783424	65119
+8	0119246848	58213
+9	0117637120	57341
+10	0117637120	43942
+11	0118173696	61083
+12	0119783424	63415
+13	0118173696	62630
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 118710272
+virtual addr: 0 - on memory: no - addr on disk: 47 - last time used: 53230
+virtual addr: 1 - on memory: no - addr on disk: 49 - last time used: 55176
+virtual addr: 2 - on memory: no - addr on disk: 43 - last time used: 56881
+virtual addr: 3 - on memory: yes - addr on memory: 2 - last time used: 59593
+virtual addr: 4 - on memory: yes - addr on memory: 4 - last time used: 61621
+virtual addr: 5 - on memory: yes - addr on memory: 0 - last time used: 63865
+virtual addr: 6 - on memory: yes - addr on memory: 15 - last time used: 65724
+
+
+>> tid 119246848 solicitando pagina
+>> WSL atingiu limite. swap out em 8. conteudo movido para 51 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0118173696	58858
+2	0118710272	59505
+3	0119246848	60429
+4	0118710272	61589
+5	0119246848	62108
+6	0119246848	64342
+7	0119783424	65119
+8	0119246848	66252
+9	0117637120	57341
+10	0117637120	43942
+11	0118173696	61083
+12	0119783424	63415
+13	0118173696	62630
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 119246848
+virtual addr: 0 - on memory: no - addr on disk: 51 - last time used: 58289
+virtual addr: 1 - on memory: yes - addr on memory: 3 - last time used: 60584
+virtual addr: 2 - on memory: yes - addr on memory: 5 - last time used: 62142
+virtual addr: 3 - on memory: yes - addr on memory: 6 - last time used: 64381
+virtual addr: 4 - on memory: yes - addr on memory: 8 - last time used: 66290
+
+
+>> tid 119783424 solicitando pagina
+>> Memoria atingiu limite. swap out em 9. conteudo movido para 52 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0118173696	58858
+2	0118710272	59505
+3	0119246848	60429
+4	0118710272	61589
+5	0119246848	62108
+6	0119246848	64342
+7	0119783424	65119
+8	0119246848	66252
+9	0119783424	66813
+10	0117637120	43942
+11	0118173696	61083
+12	0119783424	63415
+13	0118173696	62630
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 119783424
+virtual addr: 0 - on memory: yes - addr on memory: 12 - last time used: 63451
+virtual addr: 1 - on memory: yes - addr on memory: 7 - last time used: 65184
+virtual addr: 2 - on memory: yes - addr on memory: 9 - last time used: 66903
+
+
+>> tid 118710272 solicitando pagina
+>> WSL atingiu limite. swap out em 2. conteudo movido para 52 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0118173696	58858
+2	0118710272	67522
+3	0119246848	60429
+4	0118710272	61589
+5	0119246848	62108
+6	0119246848	64342
+7	0119783424	65119
+8	0119246848	66252
+9	0119783424	66813
+10	0117637120	43942
+11	0118173696	61083
+12	0119783424	63415
+13	0118173696	62630
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 118710272
+virtual addr: 0 - on memory: no - addr on disk: 47 - last time used: 53230
+virtual addr: 1 - on memory: no - addr on disk: 49 - last time used: 55176
+virtual addr: 2 - on memory: no - addr on disk: 43 - last time used: 56881
+virtual addr: 3 - on memory: no - addr on disk: 52 - last time used: 59593
+virtual addr: 4 - on memory: yes - addr on memory: 4 - last time used: 61621
+virtual addr: 5 - on memory: yes - addr on memory: 0 - last time used: 63865
+virtual addr: 6 - on memory: yes - addr on memory: 15 - last time used: 65724
+virtual addr: 7 - on memory: yes - addr on memory: 2 - last time used: 67547
+
+
+>> tid 120320000 solicitando pagina
+>> Memoria atingiu limite. swap out em 1. conteudo movido para 53 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0120320000	68185
+2	0118710272	67522
+3	0119246848	60429
+4	0118710272	61589
+5	0119246848	62108
+6	0119246848	64342
+7	0119783424	65119
+8	0119246848	66252
+9	0119783424	66813
+10	0117637120	43942
+11	0118173696	61083
+12	0119783424	63415
+13	0118173696	62630
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 120320000
+virtual addr: 0 - on memory: yes - addr on memory: 1 - last time used: 68242
+
+
+>> tid 119246848 solicitando pagina
+>> WSL atingiu limite. swap out em 3. conteudo movido para 53 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0120320000	68185
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	61589
+5	0119246848	62108
+6	0119246848	64342
+7	0119783424	65119
+8	0119246848	66252
+9	0119783424	66813
+10	0117637120	43942
+11	0118173696	61083
+12	0119783424	63415
+13	0118173696	62630
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 119246848
+virtual addr: 0 - on memory: no - addr on disk: 51 - last time used: 58289
+virtual addr: 1 - on memory: no - addr on disk: 53 - last time used: 60584
+virtual addr: 2 - on memory: yes - addr on memory: 5 - last time used: 62142
+virtual addr: 3 - on memory: yes - addr on memory: 6 - last time used: 64381
+virtual addr: 4 - on memory: yes - addr on memory: 8 - last time used: 66290
+virtual addr: 5 - on memory: yes - addr on memory: 3 - last time used: 68677
+
+
+>> tid 119783424 solicitando pagina
+>> Memoria atingiu limite. swap out em 10. conteudo movido para 54 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0120320000	68185
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	61589
+5	0119246848	62108
+6	0119246848	64342
+7	0119783424	65119
+8	0119246848	66252
+9	0119783424	66813
+10	0119783424	69147
+11	0118173696	61083
+12	0119783424	63415
+13	0118173696	62630
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 119783424
+virtual addr: 0 - on memory: yes - addr on memory: 12 - last time used: 63451
+virtual addr: 1 - on memory: yes - addr on memory: 7 - last time used: 65184
+virtual addr: 2 - on memory: yes - addr on memory: 9 - last time used: 66903
+virtual addr: 3 - on memory: yes - addr on memory: 10 - last time used: 69188
+>> WSL atingiu limite. swap out em 4. conteudo movido para 54 no disco
+>>> final da tid 118710272. acessando valor do end virtual 0: 53124
+
+
+>> tid 120320000 solicitando pagina
+>> Memoria atingiu limite. swap out em 11. conteudo movido para 47 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0120320000	68185
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	53124
+5	0119246848	62108
+6	0119246848	64342
+7	0119783424	65119
+8	0119246848	66252
+9	0119783424	66813
+10	0119783424	69147
+11	0120320000	70214
+12	0119783424	63415
+13	0118173696	62630
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 120320000
+virtual addr: 0 - on memory: yes - addr on memory: 1 - last time used: 68242
+virtual addr: 1 - on memory: yes - addr on memory: 11 - last time used: 70300
+
+
+>> tid 119246848 solicitando pagina
+>> WSL atingiu limite. swap out em 5. conteudo movido para 47 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0120320000	68185
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	53124
+5	0119246848	70953
+6	0119246848	64342
+7	0119783424	65119
+8	0119246848	66252
+9	0119783424	66813
+10	0119783424	69147
+11	0120320000	70214
+12	0119783424	63415
+13	0118173696	62630
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 119246848
+virtual addr: 0 - on memory: no - addr on disk: 51 - last time used: 58289
+virtual addr: 1 - on memory: no - addr on disk: 53 - last time used: 60584
+virtual addr: 2 - on memory: no - addr on disk: 47 - last time used: 62142
+virtual addr: 3 - on memory: yes - addr on memory: 6 - last time used: 64381
+virtual addr: 4 - on memory: yes - addr on memory: 8 - last time used: 66290
+virtual addr: 5 - on memory: yes - addr on memory: 3 - last time used: 68677
+virtual addr: 6 - on memory: yes - addr on memory: 5 - last time used: 70991
+
+
+>> tid 119783424 solicitando pagina
+>> WSL atingiu limite. swap out em 12. conteudo movido para 55 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0120320000	68185
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	53124
+5	0119246848	70953
+6	0119246848	64342
+7	0119783424	65119
+8	0119246848	66252
+9	0119783424	66813
+10	0119783424	69147
+11	0120320000	70214
+12	0119783424	71576
+13	0118173696	62630
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 119783424
+virtual addr: 0 - on memory: no - addr on disk: 55 - last time used: 63451
+virtual addr: 1 - on memory: yes - addr on memory: 7 - last time used: 65184
+virtual addr: 2 - on memory: yes - addr on memory: 9 - last time used: 66903
+virtual addr: 3 - on memory: yes - addr on memory: 10 - last time used: 69188
+virtual addr: 4 - on memory: yes - addr on memory: 12 - last time used: 71600
+
+
+>> tid 120320000 solicitando pagina
+>> Memoria atingiu limite. swap out em 13. conteudo movido para 56 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0120320000	68185
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	53124
+5	0119246848	70953
+6	0119246848	64342
+7	0119783424	65119
+8	0119246848	66252
+9	0119783424	66813
+10	0119783424	69147
+11	0120320000	70214
+12	0119783424	71576
+13	0120320000	71994
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 120320000
+virtual addr: 0 - on memory: yes - addr on memory: 1 - last time used: 68242
+virtual addr: 1 - on memory: yes - addr on memory: 11 - last time used: 70300
+virtual addr: 2 - on memory: yes - addr on memory: 13 - last time used: 72047
+
+
+>> tid 119246848 solicitando pagina
+>> WSL atingiu limite. swap out em 6. conteudo movido para 56 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0120320000	68185
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	53124
+5	0119246848	70953
+6	0119246848	72497
+7	0119783424	65119
+8	0119246848	66252
+9	0119783424	66813
+10	0119783424	69147
+11	0120320000	70214
+12	0119783424	71576
+13	0120320000	71994
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 119246848
+virtual addr: 0 - on memory: no - addr on disk: 51 - last time used: 58289
+virtual addr: 1 - on memory: no - addr on disk: 53 - last time used: 60584
+virtual addr: 2 - on memory: no - addr on disk: 47 - last time used: 62142
+virtual addr: 3 - on memory: no - addr on disk: 56 - last time used: 64381
+virtual addr: 4 - on memory: yes - addr on memory: 8 - last time used: 66290
+virtual addr: 5 - on memory: yes - addr on memory: 3 - last time used: 68677
+virtual addr: 6 - on memory: yes - addr on memory: 5 - last time used: 70991
+virtual addr: 7 - on memory: yes - addr on memory: 6 - last time used: 72553
+
+
+>> tid 119783424 solicitando pagina
+>> WSL atingiu limite. swap out em 7. conteudo movido para 57 no disco
+ADDR	TID		VALUE
+0	0118710272	63830
+1	0120320000	68185
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	53124
+5	0119246848	70953
+6	0119246848	72497
+7	0119783424	73541
+8	0119246848	66252
+9	0119783424	66813
+10	0119783424	69147
+11	0120320000	70214
+12	0119783424	71576
+13	0120320000	71994
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 119783424
+virtual addr: 0 - on memory: no - addr on disk: 55 - last time used: 63451
+virtual addr: 1 - on memory: no - addr on disk: 57 - last time used: 65184
+virtual addr: 2 - on memory: yes - addr on memory: 9 - last time used: 66903
+virtual addr: 3 - on memory: yes - addr on memory: 10 - last time used: 69188
+virtual addr: 4 - on memory: yes - addr on memory: 12 - last time used: 71600
+virtual addr: 5 - on memory: yes - addr on memory: 7 - last time used: 73559
+
+
+>> tid 120320000 solicitando pagina
+>> Memoria atingiu limite. swap out em 0. conteudo movido para 58 no disco
+ADDR	TID		VALUE
+0	0120320000	73843
+1	0120320000	68185
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	53124
+5	0119246848	70953
+6	0119246848	72497
+7	0119783424	73541
+8	0119246848	66252
+9	0119783424	66813
+10	0119783424	69147
+11	0120320000	70214
+12	0119783424	71576
+13	0120320000	71994
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 120320000
+virtual addr: 0 - on memory: yes - addr on memory: 1 - last time used: 68242
+virtual addr: 1 - on memory: yes - addr on memory: 11 - last time used: 70300
+virtual addr: 2 - on memory: yes - addr on memory: 13 - last time used: 72047
+virtual addr: 3 - on memory: yes - addr on memory: 0 - last time used: 73962
+>> WSL atingiu limite. swap out em 8. conteudo movido para 58 no disco
+>>> final da tid 119246848. acessando valor do end virtual 0: 58213
+
+
+>> tid 119783424 solicitando pagina
+>> WSL atingiu limite. swap out em 9. conteudo movido para 51 no disco
+ADDR	TID		VALUE
+0	0120320000	73843
+1	0120320000	68185
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	53124
+5	0119246848	70953
+6	0119246848	72497
+7	0119783424	73541
+8	0119246848	58213
+9	0119783424	74607
+10	0119783424	69147
+11	0120320000	70214
+12	0119783424	71576
+13	0120320000	71994
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 119783424
+virtual addr: 0 - on memory: no - addr on disk: 55 - last time used: 63451
+virtual addr: 1 - on memory: no - addr on disk: 57 - last time used: 65184
+virtual addr: 2 - on memory: no - addr on disk: 51 - last time used: 66903
+virtual addr: 3 - on memory: yes - addr on memory: 10 - last time used: 69188
+virtual addr: 4 - on memory: yes - addr on memory: 12 - last time used: 71600
+virtual addr: 5 - on memory: yes - addr on memory: 7 - last time used: 73559
+virtual addr: 6 - on memory: yes - addr on memory: 9 - last time used: 74656
+
+
+>> tid 120320000 solicitando pagina
+>> WSL atingiu limite. swap out em 1. conteudo movido para 59 no disco
+ADDR	TID		VALUE
+0	0120320000	73843
+1	0120320000	75058
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	53124
+5	0119246848	70953
+6	0119246848	72497
+7	0119783424	73541
+8	0119246848	58213
+9	0119783424	74607
+10	0119783424	69147
+11	0120320000	70214
+12	0119783424	71576
+13	0120320000	71994
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 120320000
+virtual addr: 0 - on memory: no - addr on disk: 59 - last time used: 68242
+virtual addr: 1 - on memory: yes - addr on memory: 11 - last time used: 70300
+virtual addr: 2 - on memory: yes - addr on memory: 13 - last time used: 72047
+virtual addr: 3 - on memory: yes - addr on memory: 0 - last time used: 73962
+virtual addr: 4 - on memory: yes - addr on memory: 1 - last time used: 75091
+
+
+>> tid 119783424 solicitando pagina
+>> WSL atingiu limite. swap out em 10. conteudo movido para 60 no disco
+ADDR	TID		VALUE
+0	0120320000	73843
+1	0120320000	75058
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	53124
+5	0119246848	70953
+6	0119246848	72497
+7	0119783424	73541
+8	0119246848	58213
+9	0119783424	74607
+10	0119783424	75695
+11	0120320000	70214
+12	0119783424	71576
+13	0120320000	71994
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 119783424
+virtual addr: 0 - on memory: no - addr on disk: 55 - last time used: 63451
+virtual addr: 1 - on memory: no - addr on disk: 57 - last time used: 65184
+virtual addr: 2 - on memory: no - addr on disk: 51 - last time used: 66903
+virtual addr: 3 - on memory: no - addr on disk: 60 - last time used: 69188
+virtual addr: 4 - on memory: yes - addr on memory: 12 - last time used: 71600
+virtual addr: 5 - on memory: yes - addr on memory: 7 - last time used: 73559
+virtual addr: 6 - on memory: yes - addr on memory: 9 - last time used: 74656
+virtual addr: 7 - on memory: yes - addr on memory: 10 - last time used: 75812
+
+
+>> tid 120320000 solicitando pagina
+>> WSL atingiu limite. swap out em 11. conteudo movido para 61 no disco
+ADDR	TID		VALUE
+0	0120320000	73843
+1	0120320000	75058
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	53124
+5	0119246848	70953
+6	0119246848	72497
+7	0119783424	73541
+8	0119246848	58213
+9	0119783424	74607
+10	0119783424	75695
+11	0120320000	76365
+12	0119783424	71576
+13	0120320000	71994
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 120320000
+virtual addr: 0 - on memory: no - addr on disk: 59 - last time used: 68242
+virtual addr: 1 - on memory: no - addr on disk: 61 - last time used: 70300
+virtual addr: 2 - on memory: yes - addr on memory: 13 - last time used: 72047
+virtual addr: 3 - on memory: yes - addr on memory: 0 - last time used: 73962
+virtual addr: 4 - on memory: yes - addr on memory: 1 - last time used: 75091
+virtual addr: 5 - on memory: yes - addr on memory: 11 - last time used: 76398
+>> WSL atingiu limite. swap out em 12. conteudo movido para 62 no disco
+>>> final da tid 119783424. acessando valor do end virtual 0: 63415
+
+
+>> tid 120320000 solicitando pagina
+>> WSL atingiu limite. swap out em 13. conteudo movido para 55 no disco
+ADDR	TID		VALUE
+0	0120320000	73843
+1	0120320000	75058
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	53124
+5	0119246848	70953
+6	0119246848	72497
+7	0119783424	73541
+8	0119246848	58213
+9	0119783424	74607
+10	0119783424	75695
+11	0120320000	76365
+12	0119783424	63415
+13	0120320000	77234
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 120320000
+virtual addr: 0 - on memory: no - addr on disk: 59 - last time used: 68242
+virtual addr: 1 - on memory: no - addr on disk: 61 - last time used: 70300
+virtual addr: 2 - on memory: no - addr on disk: 55 - last time used: 72047
+virtual addr: 3 - on memory: yes - addr on memory: 0 - last time used: 73962
+virtual addr: 4 - on memory: yes - addr on memory: 1 - last time used: 75091
+virtual addr: 5 - on memory: yes - addr on memory: 11 - last time used: 76398
+virtual addr: 6 - on memory: yes - addr on memory: 13 - last time used: 77280
+
+
+>> tid 120320000 solicitando pagina
+>> WSL atingiu limite. swap out em 0. conteudo movido para 63 no disco
+ADDR	TID		VALUE
+0	0120320000	77790
+1	0120320000	75058
+2	0118710272	67522
+3	0119246848	68644
+4	0118710272	53124
+5	0119246848	70953
+6	0119246848	72497
+7	0119783424	73541
+8	0119246848	58213
+9	0119783424	74607
+10	0119783424	75695
+11	0120320000	76365
+12	0119783424	63415
+13	0120320000	77234
+14	0118173696	48321
+15	0118710272	65693
+Virtual Page Table for tid 120320000
+virtual addr: 0 - on memory: no - addr on disk: 59 - last time used: 68242
+virtual addr: 1 - on memory: no - addr on disk: 61 - last time used: 70300
+virtual addr: 2 - on memory: no - addr on disk: 55 - last time used: 72047
+virtual addr: 3 - on memory: no - addr on disk: 63 - last time used: 73962
+virtual addr: 4 - on memory: yes - addr on memory: 1 - last time used: 75091
+virtual addr: 5 - on memory: yes - addr on memory: 11 - last time used: 76398
+virtual addr: 6 - on memory: yes - addr on memory: 13 - last time used: 77280
+virtual addr: 7 - on memory: yes - addr on memory: 0 - last time used: 77811
+>> WSL atingiu limite. swap out em 1. conteudo movido para 64 no disco
+>>> final da tid 120320000. acessando valor do end virtual 0: 68185
