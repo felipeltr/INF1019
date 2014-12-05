@@ -297,12 +297,19 @@ mmu_addr_t requestPage(int value) {
 
 void printMemory(void) {
 	int i;
+	PageNode* currPage;
 	pthread_mutex_lock(&mut);
-	printf("ADDR\tTID\t\tVALUE\n"); fflush(stdout);
+	printf("ADDR\tTID\t\tPage no.\tLTU\t\tValue\n"); fflush(stdout);
 	for(i=0;i<mmu->nFrames;i++) {
 		printf("%d\t", i); fflush(stdout);
 		if(mmu->threadMap[i]) {
-			printf("%010d\t%d\n",(int)mmu->threadMap[i]->tid, mmu->active[i]);  fflush(stdout);
+			currPage = mmu->threadMap[i]->pageList;
+			while(currPage != NULL) {
+				if(currPage->onMemory && currPage->addr == i)
+					break;
+				currPage = currPage->next;
+			}
+			printf("%010d\t%d\t\t%d\t\t%d\n",(int)mmu->threadMap[i]->tid, currPage->virtualAddr, currPage->lastUse, mmu->active[i]);  fflush(stdout);
 		} else {
 			printf("- frame vazio -\n");  fflush(stdout);
 		}
@@ -328,6 +335,40 @@ void printVirtualPageTable(void) {
 		pNode = pNode->next;
 	}
 	pthread_mutex_unlock(&mut);
+}
+
+void freeMySpaces(void) {
+	int i;
+	ThreadNode *tNode, *currThread;
+	PageNode *currPage, *nextPage;
+	tNode = findThreadNodeByTid( pthread_self() );
+	for(i=0;i<mmu->nFrames;i++) {
+		if(mmu->threadMap[i] == tNode) {
+			(mmu->framesUsed)--;
+			mmu->threadMap[i] = NULL;
+		}
+	}
+	for(i=0;i<HARD_DISK_SIZE;i++) {
+		if(mmu->threadMapDisk[i] == tNode) {
+			mmu->threadMapDisk[i] = NULL;
+		}
+	}
+	if(mmu->tList == tNode) {
+		mmu->tList = tNode->next;
+	} else {
+		currThread = mmu->tList;
+		while(currThread->next != NULL) {
+			if(currThread->next == tNode)
+				currThread->next = tNode->next;
+		}
+	}
+	currPage = tNode->pageList;
+	while(currPage != NULL) {
+		nextPage = currPage->next;
+		free(currPage);
+		currPage = nextPage;
+	}
+	free(tNode);
 }
 
 void destroyMMU(void) {

@@ -18,3 +18,9 @@ void printVirtualPageTable(void);
 
 /* obtem conteudo de uma pagina */
 int getPageContent(mmu_addr_t virtualAddr);
+
+/* libera espacos alocados por aquela thread */
+void freeMySpaces(void);
+
+/* destroi MMU */
+void destroyMMU(void);

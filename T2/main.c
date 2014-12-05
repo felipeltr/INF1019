@@ -30,6 +30,7 @@ void *thread_main(void* arg) {
 	}
 	printf(">>> final da tid %d. acessando valor do end virtual %d: %d\n",(int)pthread_self(), (int)firstPage, getPageContent(firstPage));
 	fflush(stdout);
+	freeMySpaces();
 	return NULL;
 }
 
